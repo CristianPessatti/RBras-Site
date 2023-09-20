@@ -1,0 +1,108 @@
+languageCode: en-us
+title: RBras | Região Brasileira da Sociedade Internacional de Biometria
+theme: roxo-hugo
+summarylength: 25
+defaultContentLanguage: pt-br
+menu:
+  nav:
+    - identifier: menu.home
+      name: Home
+      url: ''
+      weight: 1
+    - name: Sobre
+      url: about
+      weight: 2
+    - name: Notícias
+      url: blog
+      weight: 3
+    - name: Associados
+      url: associado
+      weight: 4
+    - name: JP-Rbras
+      url: jp
+      weight: 5
+    - name: Publicações
+      url: publicacoes
+      weight: 6
+    - name: Contato
+      url: contact
+      weight: 7
+    - name: Português
+      url: ''
+      weight: 8
+params:
+  author: StaticMania
+  banner:
+    background_image: images/backgrounds/bg-br2.png
+    enable: yes
+    heading: RBras
+    primary_button: Eventos
+    primary_button_url: portfolio
+    secondary_button: Contato
+    secondary_button_url: contact
+    tagline: Região Brasileira da Sociedade Internacional de Biometria
+  call_to_action:
+    background_image: images/backgrounds/cta-background.jpg
+    enable: yes
+    primary_button: Saiba Mais
+    primary_button_url: contact
+    secondary_button: Contato
+    secondary_button_url: portfolio
+    title: SEJA UM ASSOCIADO
+  contactForm:
+    placeholder_about_the_project: About the Project
+    placeholder_email: Email
+    placeholder_first_name: First Name
+    placeholder_last_name: Last Name
+    placeholder_project_type: Project Type
+    projectType:
+      - title: Graphics Design
+        value: gd
+      - title: Web Design
+        value: wd
+    send_message: Send Message
+  dateFormat: 26 FEB 1994
+  description: Roxo Hugo themes | Design Agency Template by StaticMania
+  fabform: https://fabform.io/f/USAg2Jl
+  footer:
+    contactInfo:
+      address: presidente@rbras.org.br
+      email: secretaria@rbras.org.br
+      phone: tesouraria@rbras.org.br
+      title: Informações para Contato
+#    service:
+#      description: develop design solutions<br>produce valuable cultural content<br>create
+#        fresh brand experience
+#      title: 'We help brands:'
+#    sitemap:
+#      link:
+#        - name: About Company
+#          url: about
+#        - name: Projects
+#          url: portfolio
+#        - name: Blog
+#          url: blog
+#        - name: Contact
+#          url: contact
+#      title: Sitemap
+#    social:
+#      link:
+#        - name: Medium
+#          url: '#'
+#        - name: Behance
+#          url: '#'
+#        - name: Dribbble
+#          url: '#'
+#        - name: Instagram
+#          url: '#'
+#      title: Social Media
+  googleAnalitycsID: Your ID
+  logo: images/logo.png
+  navAction:
+    name: Get in touch
+    status: yes
+    url: contact
+  portfolio:
+    enable: yes
+    subtitle: Crafting experiences and seeking to make the complex clear & beautiful.
+    title: OUR RECENT WORKS

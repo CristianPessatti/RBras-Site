@@ -1,0 +1,73 @@
+  {{ define "main" }}
+
+<section class="site-blog-header">
+  <div class="container">
+    <div class="row justify-content-left">
+        <div class="associado-header">
+          <h2>{{ .Params.beneficios_heading }}</h2>
+          <ul>
+            {{ range .Params.beneficios_list }}
+            <li>{{ . }}</li>
+            {{ end }}
+          <ul>
+        </div>
+        <div class="associado-header">
+          <h2>{{ .Params.filiacao_heading }}</h2>
+          <p>{{ .Params.introducao_categorias }}</p>
+          <ol>
+            {{ range .Params.categorias_list }}
+            <li>{{ . }}</li>
+            {{ end }}
+          </ol>
+          <p>{{ .Params.introducao_tabela }}</p>
+          <table class="associado-tabela">
+            <tr>
+              <th>{{ .Params.tab_categoria_heading }}</th>
+              <th>{{ .Params.tab_valor_heading }}</th>
+            </tr>
+            {{ range .Params.tabela }}
+            <tr>
+              <td>{{ .categoria }}</td>
+              <td class="centralizar">{{ .valor }}</td>
+            </tr>
+            {{ end }}
+          </table>
+          <br><br>
+          <h4>{{ .Params.tut_filiacao_heading }}</h4>
+          <ol>
+            {{ range .Params.tut_filiacao_passos }}
+            <li>{{ . }}</li>
+            {{ end }}
+          </ol>
+          
+          <br><br>
+          <h4>{{ .Params.introducao_video }}</h4>
+          
+          <iframe width="810" height="500" src="https://www.youtube.com/embed/wlNx_HMUQSg?si=E88ho521nIi9aVSe"></iframe> 
+          
+          <br><br>
+          <h4>{{ .Params.introducao_duvidas }}</h4>
+          <ul>
+            {{ range .Params.duvidas }}
+            <li>{{ . }}</li>
+            {{ end }}
+          <ul>
+        </div>
+        <div class="associado-header">
+          <br><br>
+          <h2>{{ .Params.premiacoes_heading }}</h2>
+          <ul>
+            {{ range .Params.premiacoes }}
+            <li>{{ . }}</li>
+            {{ end }}
+          <ul>
+        </div>
+    </div>
+  </div>
+</section>
+
+
+
+{{ partial "call-to-action.html" . }}
+
+{{ end }}

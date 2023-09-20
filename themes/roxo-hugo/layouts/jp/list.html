@@ -1,0 +1,23 @@
+  {{ define "main" }}
+
+<section class="site-blog-header">
+  <div class="container">
+    <div class="row justify-content-left">
+        <div class="associado-header">
+          <p>{{ .Params.parag_inicial }}</p><br>
+          <p>{{ .Params.parag_segundo }}</p><br>
+          <p>{{ .Params.grupo_heading }}</p>
+          <ul>
+            {{range .Params.grupo }}
+            <li>{{ . }}</li>
+            {{ end }}
+          </ul>
+          <p>{{ .Params.conc }}</p>
+        </div>
+    </div>
+  </div>
+</section>
+
+<!--{{ partial "call-to-action.html" . }}-->
+
+{{ end }}

@@ -1,0 +1,25 @@
+.associado {
+  &-header {
+    h2 {
+      color: $verde-primario;
+    }
+  }
+  &-tabela {
+    border: solid 1px #000000 !important;
+    border-collapse: collapse !important;
+    border-spacing: 0 !important;
+    margin: auto;
+    
+    tr {
+      border: solid 1px #000000 !important;
+      
+      th {
+        border: solid 1px #000000 !important;
+      }
+      td {
+        border: solid 1px #000000 !important;
+        padding-right: 200px;
+      }
+    }
+  }
+}

@@ -1,0 +1,218 @@
+{{ define "main" }}
+
+<section class="site-about-header">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="site-about-wrapper">
+          <div class="site-about-company">
+            <h1>
+              {{ .Params.heading }}
+            </h1>
+          </div>
+          <div class="site-about-description">
+            <p>
+              {{ .Description }}
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="site-expertise">
+  <div class="container">
+    <div class="row">
+      {{ with .Params.expertise_title }}
+      <div class="col-md-5">
+        <div class="section-title">
+          <h2>{{ . }}</h2>
+        </div>
+      </div>
+      {{ end }}
+      <div class="col-md-6">
+        <ul class="site-expertise-list">
+          {{ range .Params.expertise_sectors }}
+          <li>{{ . }}</li>
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="site-expertise">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-5">
+        <ul class="site-expertise-list">
+          <li>
+            {{ .Params.internacional_sectors }}
+          </li>
+        </ul>
+      </div>
+      <div class="col-md-6">
+        <div class="section-title">
+          <h2>
+            {{ .Params.internacional_title }}
+          </h2>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="site-expertise">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-5">
+        <div class="section-title">
+          <h2>
+            {{ .Params.reunioes_title }}
+          </h2>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <ul class="site-expertise-list">
+          <li>
+            {{ .Params.reunioes_sectors }}
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="site-expertise">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-5">
+        <ul class="site-expertise-list">
+          <li>
+            {{ .Params.crescimento_sectors }}
+          </li>
+        </ul>
+      </div>
+      <div class="col-md-6">
+        <div class="section-title">
+          <h2>
+            {{ .Params.crescimento_title }}
+          </h2>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ partial "team.html" . }}
+
+<section class="site-expertise">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-5">
+        <div class="section-title">
+          <h2>
+            ESTATUTO
+          </h2>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <ul class="site-expertise-list">
+          <li>
+            Abra o estatuto da RBras acessando o botão abaixo:<br><br>
+            <center>
+            <a href="" class="btn btn-secondary">
+                <span class="btn-area">
+                  <span data-text="CLIQUE AQUI">
+                    CLIQUE AQUI
+                  </span>
+                </span>
+              </a>
+            </center>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="site-expertise">
+  <div class="container">
+    <div class="row justify-content-left">
+        <div class="section-title">
+          <h1>NOSSA HISTÓRIA</h1><br><br>
+          <h4>A REGIÃO BRASILEIRA DA SOCIEDADE INTERNACIONAL DE BIOMETRIA (RBras) NO PERÍODO DE 1955 a 1988</h4>
+          <p>(Resumo histórico escrito pelo Prof. Dr. Frederico Pimentel Gomes)</p>
+        </div>
+        <ul class="site-expertise-list">
+          {{ range .Params.historia_paragrafos }}
+          <li>{{ . }}</li>
+          {{ end }}
+        </ul>
+        <div class="section-title">
+          <br><br>
+          <h4>A REGIÃO BRASILEIRA DA SOCIEDADE INTERNACIONAL DE BIOMETRIA (RBras) NO PERÍODO DE 1988 a 2005</h4>
+          <p>(Resumo histórico escrito pelo Prof. Dr. Décio Barbin)</p>
+        </div>
+        <ul class="site-expertise-list">
+          {{ range .Params.historia_paragrafos_2 }}
+          <li>{{ . }}</li>
+          {{ end }}
+        </ul>
+        <div class="section-title">
+          <br><br>
+          <h4>A REGIÃO BRASILEIRA DA SOCIEDADE INTERNACIONAL DE BIOMETRIA (RBras) NO PERÍODO DE 2006 a ATUALIDADE</h4>
+        </div>
+        <ul class="site-expertise-list">
+          <li>Em construção...</li>
+        </ul>
+    </div>
+  </div>
+</section>
+
+<section class="site-expertise">
+  <div class="container">
+    <div class="row">
+      {{ with .Params.proximos_eventos_title }}
+      <div class="col-md-5">
+        <div class="section-title">
+          <h2>{{ . }}</h2>
+        </div>
+      </div>
+      {{ end }}
+      <div class="col-md-6">
+        <ul class="site-expertise-list">
+          {{ range .Params.proximos_eventos }}
+          <li>{{ . }}</li>
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="site-expertise">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-5">
+        <ul class="site-expertise-list">
+          {{ range .Params.passados_eventos }}
+          <li>{{ . }}</li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ with .Params.passados_eventos_title }}
+      <div class="col-md-6">
+        <div class="section-title">
+          <h2>{{ . }}</h2>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+{{ partial "call-to-action.html" . }}
+
+{{ end }}

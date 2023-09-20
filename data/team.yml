@@ -1,0 +1,159 @@
+enable  : true
+title   : DIRETORIA BIÊNIO 2022-2024
+members  :
+  - image       : images/team/team-member-one.jpg
+    name        : Vera Tomazella
+    designation : Presidente
+    medium      : https://www.medium.com/
+    linkedin    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/team-member-two.jpg
+    name        : Afrânio Vieira
+    designation : Vice-Presidente
+    medium      : https://www.medium.com/
+    linkedin    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/team-member-three.jpg
+    name        : Renata Alcarde Sermarini
+    designation : 1º Secretária
+    medium      : https://www.medium.com/
+    linkedin    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/team-member-five.jpg
+    name        : Anderson Ara
+    designation : 2º Secretário
+    medium      : https://www.medium.com/
+    linkedin    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/team-member-six.jpg
+    name        : Paulo Henrique Sales Guimarães
+    designation : 1º Tesoureiro
+    medium      : https://www.medium.com/
+    linkedin    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+    
+  - image       : images/team/team-member-six.jpg
+    name        : Marcelo Bourguignon
+    designation : 2º Tesoureiro
+    medium      : https://www.medium.com/
+    linkedin    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+conselho_title: MEMBROS DO CONSELHO DA RBRAS
+conselho_members:
+  - image       : images/team/team-member-one.jpg
+    name        : Carlos Alberto de Bragança Pereira
+    designation : 2021-2024
+    medium      : https://www.medium.com/
+    linkedin    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/team-member-two.jpg
+    name        : Pedro Ferreira Filho
+    designation : 2021-2024
+    medium      : https://www.medium.com/
+    linkedin    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/team-member-three.jpg
+    name        : Roseli Aparecida Leandro
+    designation : 2020-2023
+    medium      : https://www.medium.com/
+    linkedin    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/team-member-four.jpg
+    name        : Luiz Nakamura
+    designation : 2020-2023
+    medium      : https://www.medium.com/
+    linkedin    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/team-member-five.jpg
+    name        : Taciana Villela Savian
+    designation : 2022-2025
+    medium      : https://www.medium.com/
+    linkedin    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/team-member-six.jpg
+    name        : Waldomiro Barioni Júnior
+    designation : 2022-2025
+    medium      : https://www.medium.com/
+    linkedin    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+    
+pres_anterior_title: PRESIDENTE DA DIRETORIA DO MANDATO ANTERIOR
+pres_anterior_members:
+  - image       : images/team/team-member-six.jpg
+    name        : Paulo Canas Rodrigues
+    designation : 2020-2022
+    medium      : https://www.medium.com/
+    linkedin    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+    
+eleitos_ibs_title: ASSOCIADOS DA RBRAS ELEITOS PARA CARGOS DA IBS
+eleitos_ibs_members:
+  - image       : images/team/team-member-six.jpg
+    name        : Paulo Canas Rodrigues
+    designation : Representative Council
+    medium      : https://www.medium.com/
+    linkedin    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+    
+  - image       : images/team/team-member-six.jpg
+    name        : Renato Martins Assunção
+    designation : Representative Council
+    medium      : https://www.medium.com/
+    linkedin    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+    
+  - image       : images/team/team-member-six.jpg
+    name        : Idemauro Antonio Rodrigues de Lara
+    designation : Representative Council
+    medium      : https://www.medium.com/
+    linkedin    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+nomeados_ibs_title: ASSOCIADOS DA RBRAS NOMEADOS PARA COMITÊS DA IBS (EX-OFFICIO)
+nomeados_ibs_members:
+  - image       : images/team/team-member-six.jpg
+    name        : Luzia Aparecida Trinca
+    designation : International Program Committee
+    medium      : https://www.medium.com/
+    linkedin    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+    
+  - image       : images/team/team-member-six.jpg
+    name        : Renato Martins Assunção
+    designation : Editorial Advisory Committee
+    medium      : https://www.medium.com/
+    linkedin    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+    
+  - image       : images/team/team-member-six.jpg
+    name        : Julia Maria Pavan Soler
+    designation : Awards Fund Committee
+    medium      : https://www.medium.com/
+    linkedin    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+    
+  - image       : images/team/team-member-six.jpg
+    name        : Luiz Ricardo Nakamura
+    designation : Education Committee
+    medium      : https://www.medium.com/
+    linkedin    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+    
+coord_jp_title: COORDENADOR DO GRUPO DE JOVENS PESQUISADORES DA RBRAS (EX-OFFICIO)
+coord_jp_members:
+  - image       : images/team/team-member-six.jpg
+    name        : Guilherme Aparecido Santos Aguilar
+    designation : Coordenador
+    medium      : https://www.medium.com/
+    linkedin    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/

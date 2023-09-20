@@ -1,0 +1,33 @@
+.site-counter{
+  padding: 85px 0;
+  color: $white;
+  background: #fff9c4;
+  .section-title{
+    margin-bottom: 40px;
+  }
+  @include mobile{
+    padding: 50px 0;
+  }
+  &-title {
+    color: #00695c;
+    font-size: 50px;
+  }
+  &-item{
+    @include desktop{
+      margin-bottom: 30px;
+      text-align: center;
+      font-weight: 200;
+    }
+    &-title{
+      color: #00695c;
+      font-size: 20px;
+      font-weight: 300;
+    }
+    &-number{
+      color: #00695c;
+      font-size: 60px;
+      margin-bottom: 0;
+      font-weight: 700;
+    }
+  }
+}

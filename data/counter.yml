@@ -1,0 +1,11 @@
+enable : true
+heading : "ASSOCIADOS"
+counter_item: 
+  - title: "PESQUISADORES"
+    number: "100"
+
+  - title: "ALUNOS"
+    number: "200"
+
+  - title: "PROFISSIONAIS"
+    number: "35"

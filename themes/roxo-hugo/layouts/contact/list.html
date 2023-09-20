@@ -1,0 +1,52 @@
+{{ define "main" }}
+<section class="site-contact">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-5">
+        <h1 class="site-contact-title">
+          {{ .Params.heading | safeHTML }}
+        </h1>
+        <ul>
+          <li>Presidente: Vera Tomazella, UFSCar (presidente@rbras.org.br)</li>
+          <li>Primeira Secretária: Renata Alcarde Sermarini, ESALQ/USP (secretaria@rbras.org.br)</li>
+          <li>Primeiro tesoureiro: Paulo Guimarães, UFLA (tesouraria@rbras.org.br)</li>
+        </ul>
+      </div>
+      <div class="col-lg-6 ml-auto">
+        <div class="site-contact-form">
+          <h4>{{ .Params.form_heading }}</h4>
+          <form id="contact-form" action="{{ .Site.Params.fabform }}" method="post">
+            <div class="row">
+              <div class="col-lg-6">
+                <input type="text" class="form-control" name="first-name" id="first-name" placeholder="Nome" required>
+              </div>
+              <div class="col-lg-6">
+                <input type="text" class="form-control" name="last-name" id="last-name" placeholder="Sobrenome" required>
+              </div>
+              <div class="col-lg-6">
+                <input type="email" class="form-control" name="email" id="email" placeholder="{{ .Site.Params.contactForm.placeholder_email }}" required>
+              </div>
+              <div class="col-lg-6">
+                <input class="form-control" id="projectType" name="project-type" placeholder="Telefone" required>
+              </div>
+              <div class="col-12">
+                <textarea class="form-control" id="aboutProject" name="about-project" rows="6" placeholder="Mensagem"></textarea>
+              </div>
+              <div class="col-12">
+                <button formtarget="_blank" type="submit" class="btn btn-primary" id="contact-form-button">
+                  <span class="btn-area">
+                    <span data-text="{{ .Site.Params.contactForm.send_message }}">
+                      {{ .Site.Params.contactForm.send_message }}
+                    </span>
+                  </span>
+                </button>
+              </div>
+              <p id="contact-form-status"></p>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}

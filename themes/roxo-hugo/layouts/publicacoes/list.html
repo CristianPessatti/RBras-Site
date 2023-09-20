@@ -1,0 +1,57 @@
+  {{ define "main" }}
+
+<section class="site-blog-header">
+  <div class="container">
+    <div class="row justify-content-left">
+      <div class="associado-header">
+        <h2>{{ .Params.informes_heading }}</h2>
+        <p>{{ .Params.informes_text }}</p>
+      </div>
+      <div class="associado-header">
+        <br><br>
+        <h2>{{ .Params.editores_heading }}</h2>
+        <ul>
+          {{ range .Params.editores_list }}
+          <li>{{ . }}</li>
+          {{ end }}
+        <ul>
+      </div>
+      <!--<object data="pdfs/boletins/boletim-teste.pdf" type="application/pdf" width="100%" height="500px">
+      <p>Unable to display PDF file. <a href="pdfs/boletins/boletim-teste.pdf">Download</a> instead.</p>
+      </object>-->
+    </div>
+    <br>
+    <div class="row justify-content-left">
+      <div class="associado-header">
+        <h2>{{ .Params.equipe_editorial_title }}</h2>
+        <p><b>{{ .Params.editor_chefe_title }}</b></p>
+        <ul>
+          <li>{{ .Params.editor_chefe}}</li>
+        </ul>
+        <p><b>{{ .Params.co_editores_title }}</b></p>
+        <ul>
+          {{ range .Params.co_editores }}
+          <li>{{ . }}</li>
+          {{ end }}
+        </ul>
+        <p><b>{{ .Params.editor_hon_title }}</b></p>
+        <ul>
+          <li>{{ .Params.editor_hon }}</li>
+        </ul>
+        <p><b>{{ .Params.editor_asc_title }}</b></p>
+        <ul>
+          {{ range .Params.editores_asc }}
+          <li>{{ . }}</li>
+          {{ end }}
+        </ul>
+      </div>
+  </div>
+  </div>
+</section>
+
+    
+</section>
+
+<!--{{ partial "call-to-action.html" . }}-->
+
+{{ end }}

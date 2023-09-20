@@ -1,0 +1,33 @@
+enable  : true
+title   : "CONSELHO DIRETOR"
+subtitle: "Diretoria biênio 2022-2024"
+testimonial_item :
+  - thumb : "images/testimonial/pessoa.png"
+    name  : "Vera Tomazella"
+    company_position: "Presidente"
+    quote : "UFSCar, SP. vera@ufscar.br"
+
+  - thumb : "images/testimonial/homem.png"
+    name  : "Alfrânio Vieira"
+    company_position: "Vice-Presidente"
+    quote : "UFSCar, SP. afranio@ufscar.br"
+    
+  - thumb : "images/testimonial/pessoa.png"
+    name  : "Renata Alcarde Sermarini"
+    company_position: "1º Secretária"
+    quote : "ESALQ/USP, SP. ralcarde@usp.br"
+    
+  - thumb : "images/testimonial/homem.png"
+    name  : "Anderson Ara"
+    company_position: "2º Secretário"
+    quote : "UFPR, PR. ara@ufpr.br"
+
+  - thumb : "images/testimonial/homem.png"
+    name  : "Paulo Henrique Sales Guimarães"
+    company_position: "1º Tesoureiro"
+    quote : "UFLA, MG. phsg13@yahoo.com.br"
+
+  - thumb : "images/testimonial/homem.png"
+    name  : "Marcelo Bourguignon"
+    company_position: "2º Tesoureiro"
+    quote : "UFRN, RN. m.p.bourguignon@gmail.com"
