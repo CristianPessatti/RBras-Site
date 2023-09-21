@@ -1,6 +1,7 @@
 ---
 date: "2018-07-12T18:19:33+06:00"
 title: JP-RBras
+img_logo: images/logojp.png
 
 parag_inicial: 'O grupo Jovens Pesquisadores da Região Brasileira da Sociedade Internacional de Biometria (JP-RBras) é formado por pesquisadores em formação ou recém-formados de todas as regiões do país, que se dedicam ao estudo de estatística em biometria ou áreas correlatas. A criação do JP-RBras foi aprovada na assembleia geral da RBras em 1 de agosto de 2019 e tem como objetivo impulsionar a participação de jovens pesquisadores nas atividades relacionadas à RBras, permitindo a constante renovação nas comissões da associação. O regimento do JP-RBras, aprovado pelo Conselho Diretor da RBras em dezembro de 2019, pode ser encontrado aqui.'
 

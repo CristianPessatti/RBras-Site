@@ -37,7 +37,7 @@ params:
     enable: yes
     heading: RBras
     primary_button: Eventos
-    primary_button_url: portfolio
+    primary_button_url: about
     secondary_button: Contato
     secondary_button_url: contact
     tagline: Região Brasileira da Sociedade Internacional de Biometria
@@ -45,9 +45,9 @@ params:
     background_image: images/backgrounds/cta-background.jpg
     enable: yes
     primary_button: Saiba Mais
-    primary_button_url: contact
+    primary_button_url: associado
     secondary_button: Contato
-    secondary_button_url: portfolio
+    secondary_button_url: contact
     title: SEJA UM ASSOCIADO
   contactForm:
     placeholder_about_the_project: About the Project
