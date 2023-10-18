@@ -119,38 +119,38 @@ defaultContentLanguage = "pt-br"
       phone   = "tesouraria@rbras.org.br"
       email   = "secretaria@rbras.org.br"
       # Footer Sitemap
-      [params.footer.sitemap]
-        title   = "Sitemap"
-        [[params.footer.sitemap.link]]
-          name = "About Company"
-          url  = "about"
-        [[params.footer.sitemap.link]]
-          name = "Projects"
-          url  = "portfolio"
-        [[params.footer.sitemap.link]]
-          name = "Blog"
-          url  = "blog"
-        [[params.footer.sitemap.link]]
-          name = "Contact"
-          url  = "contact"
+#      [params.footer.sitemap]
+#        title   = "Sitemap"
+#        [[params.footer.sitemap.link]]
+#          name = "About Company"
+#          url  = "about"
+#        [[params.footer.sitemap.link]]
+#          name = "Projects"
+#          url  = "portfolio"
+#        [[params.footer.sitemap.link]]
+#          name = "Blog"
+#          url  = "blog"
+#        [[params.footer.sitemap.link]]
+#          name = "Contact"
+#          url  = "contact"
       # Footer Social Media
-      [params.footer.social]
-        title   = "Social Media"
-        [[params.footer.social.link]]
-          name = "Medium"
-          url  = "#"
-        [[params.footer.social.link]]
-          name = "Behance"
-          url  = "#"
-        [[params.footer.social.link]]
-          name = "Dribbble"
-          url  = "#"
-        [[params.footer.social.link]]
-          name = "Instagram"
-          url  = "#"
+#      [params.footer.social]
+#        title   = "Social Media"
+#        [[params.footer.social.link]]
+#          name = "Medium"
+#          url  = "#"
+#        [[params.footer.social.link]]
+#          name = "Behance"
+#          url  = "#"
+#        [[params.footer.social.link]]
+#          name = "Dribbble"
+#          url  = "#"
+#        [[params.footer.social.link]]
+#          name = "Instagram"
+#          url  = "#"
       # Footer Service
-      [params.footer.service]
-        title       = "We help brands:"
-        description = "develop design solutions<br>produce valuable cultural content<br>create fresh brand experience"
-      [params.footer.back_to_top]
-        description = "I want to <br> visit again"
+#      [params.footer.service]
+#        title       = "We help brands:"
+#        description = "develop design solutions<br>produce valuable cultural content<br>create fresh brand experience"
+#      [params.footer.back_to_top]
+#        description = "I want to <br> visit again"
