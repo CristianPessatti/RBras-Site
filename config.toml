@@ -26,7 +26,7 @@ googleAnalytics = ""  # add your tracking id
     weight  = 1
   [[languages.en.menu.nav]]
     name    = "Home"
-    url     = ""
+    url     = "en/"
     weight  = 1
   [[languages.pt.menu.nav]]
     name    = "Sobre"

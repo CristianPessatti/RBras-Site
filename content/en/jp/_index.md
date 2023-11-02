@@ -1,6 +1,7 @@
 ---
-date: "2018-07-12T18:19:33+06:00"
 title: JP-RBras
+img_logo: images/logojp.png
+
 
 parag_inicial: 'The Young Researchers from the Brazilian Region of the International Society of Biometrics (JP-RBras) is a group formed by researchers in training or recent graduates from all regions of the country, dedicated to the statistics’ study in biometrics or related areas. The creation of JP-RBras was approved at the RBras general meeting on August 1, 2019, and aims to boost the participation of young researchers in activities related to RBras, allowing for constant renewal in the association’s committees. The JP-RBras charter, approved by the RBras Board of Directors in December 2019, can be found here.'
 

@@ -1,11 +1,18 @@
 enable : true
 heading : "ASSOCIADOS"
+heading2 : "MEMBERS"
 counter_item: 
   - title: "PESQUISADORES"
+    title2: "RESEARCHERS"
     number: "100"
 
   - title: "ALUNOS"
+    title2: "STUDENTS"
     number: "200"
 
   - title: "PROFISSIONAIS"
+    title2: "PROFESSIONALS"  
     number: "35"
+    
+    
+    

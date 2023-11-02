@@ -1,49 +1,57 @@
 enable  : true
 title   : DIRETORIA BIÊNIO 2022-2024
+title2  : BOARD OF DIRECTORS 2022-2024
 members  :
   - image       : images/team/team-member-one.jpg
     name        : Vera Tomazella
     designation : Presidente
+    designatio2 : President
     medium      : https://www.medium.com/
     linkedin    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member-two.jpg
-    name        : Afrânio Vieira
-    designation : Vice-Presidente
-    medium      : https://www.medium.com/
-    linkedin    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+  - image        : images/team/team-member-two.jpg
+    name         : Afrânio Vieira
+    designation  : Vice-Presidente
+    designation2 : Vice-President
+    medium       : https://www.medium.com/
+    linkedin     : https://www.linkedin.com/
+    instagram    : https://www.instagram.com/
 
-  - image       : images/team/team-member-three.jpg
-    name        : Renata Alcarde Sermarini
-    designation : 1º Secretária
-    medium      : https://www.medium.com/
-    linkedin    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+  - image        : images/team/team-member-three.jpg
+    name         : Renata Alcarde Sermarini
+    designation  : 1º Secretária
+    designation2 : 1st Secretary
+    medium       : https://www.medium.com/
+    linkedin     : https://www.linkedin.com/
+    instagram    : https://www.instagram.com/
 
-  - image       : images/team/team-member-five.jpg
-    name        : Anderson Ara
-    designation : 2º Secretário
-    medium      : https://www.medium.com/
-    linkedin    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+  - image        : images/team/team-member-five.jpg
+    name         : Anderson Ara
+    designation  : 2º Secretário
+    designation2 : 2nd Secretary
+    medium       : https://www.medium.com/
+    linkedin     : https://www.linkedin.com/
+    instagram    : https://www.instagram.com/
 
-  - image       : images/team/team-member-six.jpg
-    name        : Paulo Henrique Sales Guimarães
-    designation : 1º Tesoureiro
-    medium      : https://www.medium.com/
-    linkedin    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+  - image        : images/team/team-member-six.jpg
+    name         : Paulo Henrique Sales Guimarães
+    designation  : 1º Tesoureiro
+    designation2 : 1st Treasurer
+    medium       : https://www.medium.com/
+    linkedin     : https://www.linkedin.com/
+    instagram    : https://www.instagram.com/
     
-  - image       : images/team/team-member-six.jpg
-    name        : Marcelo Bourguignon
-    designation : 2º Tesoureiro
-    medium      : https://www.medium.com/
-    linkedin    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+  - image        : images/team/team-member-six.jpg
+    name         : Marcelo Bourguignon
+    designation  : 2º Tesoureiro
+    designation2 : 2nd Treasurer
+    medium       : https://www.medium.com/
+    linkedin     : https://www.linkedin.com/
+    instagram    : https://www.instagram.com/
 
 conselho_title: MEMBROS DO CONSELHO DA RBRAS
+conselho_title2: BOARD MEMBERS OF RBRAS
 conselho_members:
   - image       : images/team/team-member-one.jpg
     name        : Carlos Alberto de Bragança Pereira
@@ -88,6 +96,7 @@ conselho_members:
     instagram   : https://www.instagram.com/
     
 pres_anterior_title: PRESIDENTE DA DIRETORIA DO MANDATO ANTERIOR
+conselho_title2: PRESIDENT FROM LAST BOARD OF DIRECTORS
 pres_anterior_members:
   - image       : images/team/team-member-six.jpg
     name        : Paulo Canas Rodrigues
@@ -120,6 +129,7 @@ eleitos_ibs_members:
     instagram   : https://www.instagram.com/
 
 nomeados_ibs_title: ASSOCIADOS DA RBRAS NOMEADOS PARA COMITÊS DA IBS (EX-OFFICIO)
+nomeados_ibs_title2: RBRAS MEMBERS APPOINTED TO THE IBS COMMITTEES (EX-OFFICIO)
 nomeados_ibs_members:
   - image       : images/team/team-member-six.jpg
     name        : Luzia Aparecida Trinca
@@ -150,6 +160,7 @@ nomeados_ibs_members:
     instagram   : https://www.instagram.com/
     
 coord_jp_title: COORDENADOR DO GRUPO DE JOVENS PESQUISADORES DA RBRAS (EX-OFFICIO)
+coord_jp_title2: COORDINATOR OF THE  YOUNG RESEARCHERS GROUP AT RBRAS (EX-OFFICIO)
 coord_jp_members:
   - image       : images/team/team-member-six.jpg
     name        : Guilherme Aparecido Santos Aguilar

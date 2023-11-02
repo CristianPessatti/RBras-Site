@@ -1,33 +1,41 @@
 enable  : true
 title   : "CONSELHO DIRETOR"
+title2   : "BOARD DIRECTORS"
 subtitle: "Diretoria biênio 2022-2024"
+subtitle2: "Two Years 2022-2024"
 testimonial_item :
   - thumb : "images/testimonial/pessoa.png"
     name  : "Vera Tomazella"
     company_position: "Presidente"
+    company_position2: "President"
     quote : "UFSCar, SP. vera@ufscar.br"
 
   - thumb : "images/testimonial/homem.png"
     name  : "Alfrânio Vieira"
     company_position: "Vice-Presidente"
+    company_position2: "Vice-Presidente"
     quote : "UFSCar, SP. afranio@ufscar.br"
     
   - thumb : "images/testimonial/pessoa.png"
     name  : "Renata Alcarde Sermarini"
     company_position: "1º Secretária"
+    company_position2: "1st Secretary"
     quote : "ESALQ/USP, SP. ralcarde@usp.br"
     
   - thumb : "images/testimonial/homem.png"
     name  : "Anderson Ara"
     company_position: "2º Secretário"
+    company_position2: "2nd Secretary"
     quote : "UFPR, PR. ara@ufpr.br"
 
   - thumb : "images/testimonial/homem.png"
-    name  : "Paulo Henrique Sales Guimarães"
+    name  : "Paulo Henrique S. Guimarães"
     company_position: "1º Tesoureiro"
+    company_position2: "1st Treasurer"
     quote : "UFLA, MG. phsg13@yahoo.com.br"
 
   - thumb : "images/testimonial/homem.png"
     name  : "Marcelo Bourguignon"
     company_position: "2º Tesoureiro"
+    company_position2: "2nd Treasurer"
     quote : "UFRN, RN. m.p.bourguignon@gmail.com"

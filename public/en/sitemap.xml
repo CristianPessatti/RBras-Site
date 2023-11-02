@@ -67,19 +67,6 @@
                 href="http://leg.ufpr.br/~ara/rbras_test/en/blog/"
                 />
   </url><url>
-    <loc>http://leg.ufpr.br/~ara/rbras_test/en/jp/</loc>
-    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-BR"
-                href="http://leg.ufpr.br/~ara/rbras_test/jp/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-GB"
-                href="http://leg.ufpr.br/~ara/rbras_test/en/jp/"
-                />
-  </url><url>
     <loc>http://leg.ufpr.br/~ara/rbras_test/en/associado/</loc>
     <lastmod>2018-07-12T18:19:33+06:00</lastmod>
     <xhtml:link
@@ -129,6 +116,30 @@
                 rel="alternate"
                 hreflang="en-GB"
                 href="http://leg.ufpr.br/~ara/rbras_test/en/categories/"
+                />
+  </url><url>
+    <loc>http://leg.ufpr.br/~ara/rbras_test/en/events/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-BR"
+                href="http://leg.ufpr.br/~ara/rbras_test/events/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="http://leg.ufpr.br/~ara/rbras_test/en/events/"
+                />
+  </url><url>
+    <loc>http://leg.ufpr.br/~ara/rbras_test/en/jp/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-BR"
+                href="http://leg.ufpr.br/~ara/rbras_test/jp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="http://leg.ufpr.br/~ara/rbras_test/en/jp/"
                 />
   </url><url>
     <loc>http://leg.ufpr.br/~ara/rbras_test/en/tags/</loc>

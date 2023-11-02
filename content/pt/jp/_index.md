@@ -1,5 +1,4 @@
 ---
-date: "2018-07-12T18:19:33+06:00"
 title: JP-RBras
 img_logo: images/logojp.png
 
