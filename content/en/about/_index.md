@@ -22,6 +22,10 @@ crescimento_title: Area Growth
 heading: ABOUT US
 title: Who we are - RBras
 
+historia_title: 'OUR HISTORY'
+
+historia_title_1: 'THE BRAZILIAN REGION OF THE INTERNATIONAL BIOMETRY SOCIETY (RBras) IN THE PERIOD FROM 1955 to 1988'
+historia_subtitle_1: '(Historical summary written by Prof. Dr. Frederico Pimentel Gomes)'
 historia_paragrafos:
 - ' The Brazilian Region of the International Biometrics Society (RBras) was founded in Campinas (SP), on July 8, 1955, during the 5th International Biometrics Congress, promoted by the International Biometrics Society. The founding minutes, written by Américo Groszmann, were signed by 25 members of the Society, 15 Brazilians and 10 foreigners. As best known, stand out among them: R.A.Fisher, D.J. Finney, W.G. Cochran, C.R. Rao, C.I. Bliss, W.J. Youden, A.M. Penha, Walter Leser, C.G. Fraga Jr., A. Conagin, J.M. Pompeu Memory, W.L.Stevens, Ruben Markus, P. Melo Freire, G.G. Duarte and Elza Berquó. As there were already 45 members of the International Society in Brazil, the Region was able to immediately begin its constitution work.'
 - 'The first President of RBras was Constantino Gonçalves Fraga Jr., from Instituto Agronômico de Campinas. The first Treasurer was Américo Groszmann and the first Secretary, Paulo Mello Freire.'
@@ -39,6 +43,8 @@ historia_paragrafos:
 - 'For many years, RBras published the Biometrics Bulletin, a dissemination organ distributed in Brazil and in some neighboring countries. But, this publication ceased a few years ago.'
 - 'At that time, RBras has 152 members and is the only Region of the International Society of Biometrics operating in Latin America.'
 
+historia_title_2: 'THE BRAZILIAN REGION OF THE INTERNATIONAL BIOMETRY SOCIETY (RBras) IN THE PERIOD FROM 1988 to 2005'
+historia_subtitle_2: '(Historical summary written by Prof. Dr. Décio Barbin)'
 historia_paragrafos_2:
 - 'From 1988 until June 2004, they were Presidents of RBras:'
 - 'Clóvis de Araújo Peres: 1988/90; Clarice Garcia Borges Demetrius: 1990/92; João Gilberto Correa da Silva: 1992/94; Sérgio do Nascimento Kronka: 1994/96; Carlos Roberto Padovani: 1996/98; Clarice Garcia Borges Demetrius: 1998/2000; Maria Cecília Mendes Barreto: 2000/02; Clarice Garcia Borges Demetrius: 2002/04.'
@@ -59,6 +65,11 @@ historia_paragrafos_2:
 - 'Participating in the “Editorial Advisory Committee”, colleague João Gilberto Correa da Silva and, currently, colleague Clarice Garcia Borges Demétrio, in which he was “Chair” for 2 years. As correspondents for the “Biometric Bulletin” we have already had our colleagues João Gilberto Correa da Silva, Lisbeth K. Cordani and, currently, our colleague Luzia Trinca.'
 - 'RBras had, in its 50 years of foundation (07/08/55 – 07/08/2005), with 108 effective members.'
 
+historia_title_3: 'THE BRAZILIAN REGION OF THE INTERNATIONAL BIOMETRY SOCIETY (RBras) IN THE 2006 PERIOD TO THE CURRENT TIME.'
+historia_subtitle_3: ''
+historia_paragrafos_3:
+- 'Under Construction...'
+
 proximos_eventos_title: 'UPCOMING EVENTS'
 proximos_eventos:
 - '66º Reunião Anual da RBras: Florianópolis, SC, de 16/11/2022 a 18/11/2022'
@@ -67,4 +78,8 @@ passados_eventos_title: 'PAST EVENTS'
 passados_eventos:
 - '65ª Reunião Anual da RBras e o 19º SEAGRO: Piracicaba, SP, de 10/09/2021 a 11/09/2021 (online)'
 - '64ª Reunião Anual da RBras: Cuiaba, MT, de 29/07/2019 a 02/08/2019'
+
+estatuto_title: 'BYLAW'
+estatuto_text: 'Open the RBras Bylaw by accessing the button below:'
+estatuto_btn_text: 'CLICK HERE'
 ---

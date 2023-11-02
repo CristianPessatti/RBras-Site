@@ -21,6 +21,10 @@ crescimento_title: Crescimento da Área
 heading: SOBRE NÓS
 title: Quem Somos - RBras
 
+historia_title: 'NOSSA HISTÓRIA'
+
+historia_title_1: 'A REGIÃO BRASILEIRA DA SOCIEDADE INTERNACIONAL DE BIOMETRIA (RBras) NO PERÍODO DE 1955 a 1988'
+historia_subtitle_1: '(Resumo histórico escrito pelo Prof. Dr. Frederico Pimentel Gomes)'
 historia_paragrafos:
 - 'A Região Brasileira da Sociedade Internacional de Biometria (RBras) foi fundada em Campinas (SP), em 08 de julho de 1955, durante a realização do 5º Congresso Internacional de Biometria, promovido pela Sociedade Internacional de Biometria. A ata de fundação, redigida por Américo Groszmann, foi assinada por 25 sócios da Sociedade, dos quais 15 brasileiros e 10 estrangeiros. Como mais conhecidos, destacam-se entre eles: R.A.Fisher, D.J. Finney, W.G. Cochran, C.R. Rao, C.I. Bliss, W.J. Youden, A. M. Penha, Walter Leser, C.G. Fraga Jr., A. Conagin, J.M.Pompeu Memória, W.L.Stevens, Ruben Markus, P. Melo Freire, G.G. Duarte e Elza Berquó. Como já existiam no Brasil 45 sócios da Sociedade Internacional, a Região pôde dar início imediato a seus trabalhos de constituição.'
 - 'O primeiro Presidente da RBras foi Constantino Gonçalves Fraga Jr., do Instituto Agronômico de Campinas. O primeiro Tesoureiro foi Américo Groszmann e o primeiro Secretário, Paulo Mello Freire.'
@@ -41,6 +45,8 @@ historia_paragrafos:
 - 'Durante muitos anos a RBras publicou o Boletim de Biometria, órgão de divulgação distribuído no Brasil e em alguns países vizinhos. Mas, essa publicação cessou há alguns anos.'
 - 'No momento atual, a RBras conta com 152 sócios e é a única Região da Sociedade Internacional de Biometria em funcionamento na América Latina.'
 
+historia_title_2: 'A REGIÃO BRASILEIRA DA SOCIEDADE INTERNACIONAL DE BIOMETRIA (RBras) NO PERÍODO DE 1988 a 2005'
+historia_subtitle_2: '(Resumo histórico escrito pelo Prof. Dr. Décio Barbin)'
 historia_paragrafos_2:
 - 'A partir de 1988 até junho de 2004, foram Presidentes da RBras:'
 - 'Clóvis de Araújo Peres: 1988/90; Clarice Garcia Borges Demétrio: 1990/92; João Gilberto Correa da Silva: 1992/94; Sérgio do Nascimento Kronka: 1994/96; Carlos Roberto Padovani: 1996/98; Clarice Garcia Borges Demétrio: 1998/2000; Maria Cecília Mendes Barreto: 2000/02; Clarice Garcia Borges Demétrio: 2002/04.'
@@ -61,6 +67,11 @@ historia_paragrafos_2:
 - 'Do “Editorial Advisory Committee”, já participou o colega João Gilberto Correa da Silva e, atualmente, a colega Clarice Garcia Borges Demétrio, do qual foi “Chair” por 2 anos. Como correspondente do “Biometric Bulletin” já tivemos os colegas João Gilberto Correa da Silva, Lisbeth K. Cordani e, atualmente, a colega Luzia Trinca.'
 - 'A RBras contava, nos seus 50 anos de fundação (08/07/55 – 08/07/2005), com 108 sócios efetivos.'
 
+historia_title_3: 'A REGIÃO BRASILEIRA DA SOCIEDADE INTERNACIONAL DE BIOMETRIA (RBras) NO PERÍODO DE 2006 a ATUALIDADE'
+historia_subtitle_3: ''
+historia_paragrafos_3:
+- 'Em construção...'
+
 proximos_eventos_title: 'PRÓXIMOS EVENTOS'
 proximos_eventos:
 - '66º Reunião Anual da RBras: Florianópolis, SC, de 16/11/2022 a 18/11/2022'
@@ -69,4 +80,10 @@ passados_eventos_title: 'EVENTOS PASSADOS'
 passados_eventos:
 - '65ª Reunião Anual da RBras e o 19º SEAGRO: Piracicaba, SP, de 10/09/2021 a 11/09/2021 (online)'
 - '64ª Reunião Anual da RBras: Cuiaba, MT, de 29/07/2019 a 02/08/2019'
+
+estatuto_title: 'ESTATUTO'
+estatuto_text: 'Abra o estatuto da RBras acessando o botão abaixo:'
+estatuto_btn_text: 'CLIQUE AQUI'
+
+
 ---

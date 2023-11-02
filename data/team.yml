@@ -5,7 +5,7 @@ members  :
   - image       : images/team/team-member-one.jpg
     name        : Vera Tomazella
     designation : Presidente
-    designatio2 : President
+    designation2: President
     medium      : https://www.medium.com/
     linkedin    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
@@ -96,7 +96,7 @@ conselho_members:
     instagram   : https://www.instagram.com/
     
 pres_anterior_title: PRESIDENTE DA DIRETORIA DO MANDATO ANTERIOR
-conselho_title2: PRESIDENT FROM LAST BOARD OF DIRECTORS
+pres_anterior_title2: PRESIDENT FROM LAST BOARD OF DIRECTORS
 pres_anterior_members:
   - image       : images/team/team-member-six.jpg
     name        : Paulo Canas Rodrigues
@@ -165,6 +165,7 @@ coord_jp_members:
   - image       : images/team/team-member-six.jpg
     name        : Guilherme Aparecido Santos Aguilar
     designation : Coordenador
+    designation2: Coordinator
     medium      : https://www.medium.com/
     linkedin    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/

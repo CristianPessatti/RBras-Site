@@ -113,19 +113,19 @@
       <div class="col-md-5">
         <div class="section-title">
           <h2>
-            ESTATUTO
+            {{ .Params.estatuto_title }}
           </h2>
         </div>
       </div>
       <div class="col-md-6">
         <ul class="site-expertise-list">
           <li>
-            Abra o estatuto da RBras acessando o botão abaixo:<br><br>
+            {{ .Params.estatuto_text }}<br><br>
             <center>
             <a href="" class="btn btn-secondary">
                 <span class="btn-area">
                   <span data-text="CLIQUE AQUI">
-                    CLIQUE AQUI
+                    {{ .Params.estatuto_btn_text }}
                   </span>
                 </span>
               </a>
@@ -141,9 +141,9 @@
   <div class="container">
     <div class="row justify-content-left">
         <div class="section-title">
-          <h1>NOSSA HISTÓRIA</h1><br><br>
-          <h4>A REGIÃO BRASILEIRA DA SOCIEDADE INTERNACIONAL DE BIOMETRIA (RBras) NO PERÍODO DE 1955 a 1988</h4>
-          <p>(Resumo histórico escrito pelo Prof. Dr. Frederico Pimentel Gomes)</p>
+          <h1>{{ .Params.historia_title }}</h1><br><br>
+          <h4>{{ .Params.historia_title_1 }}</h4>
+          <p>{{ .Params.historia_subtitle_1 }}</p>
         </div>
         <ul class="site-expertise-list">
           {{ range .Params.historia_paragrafos }}
@@ -152,8 +152,8 @@
         </ul>
         <div class="section-title">
           <br><br>
-          <h4>A REGIÃO BRASILEIRA DA SOCIEDADE INTERNACIONAL DE BIOMETRIA (RBras) NO PERÍODO DE 1988 a 2005</h4>
-          <p>(Resumo histórico escrito pelo Prof. Dr. Décio Barbin)</p>
+          <h4>{{ .Params.historia_title_2 }}</h4>
+          <p>{{ .Params.historia_subtitle_2 }}</p>
         </div>
         <ul class="site-expertise-list">
           {{ range .Params.historia_paragrafos_2 }}
@@ -162,10 +162,12 @@
         </ul>
         <div class="section-title">
           <br><br>
-          <h4>A REGIÃO BRASILEIRA DA SOCIEDADE INTERNACIONAL DE BIOMETRIA (RBras) NO PERÍODO DE 2006 a ATUALIDADE</h4>
+          <h4>{{ .Params.historia_title_3 }}</h4>
         </div>
         <ul class="site-expertise-list">
-          <li>Em construção...</li>
+          {{ range .Params.historia_paragrafos_3 }}
+          <li>{{ . }}</li>
+          {{ end }}
         </ul>
     </div>
   </div>
