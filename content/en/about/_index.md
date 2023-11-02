@@ -72,10 +72,12 @@ historia_paragrafos_3:
 
 proximos_eventos_title: 'UPCOMING EVENTS'
 proximos_eventos:
-- '66º Reunião Anual da RBras: Florianópolis, SC, de 16/11/2022 a 18/11/2022'
+- '68º Reunião Anual da RBras: Piracicaba, SP, de 29/05/2024 a 31/05/2024'
 
 passados_eventos_title: 'PAST EVENTS'
 passados_eventos:
+- '67º Reunião Anual da RBras: Londrina, PR, de 24/07/2023 a 28/07/2023'
+- '66º Reunião Anual da RBras: Florianópolis, SC, de 16/11/2022 a 18/11/2022'
 - '65ª Reunião Anual da RBras e o 19º SEAGRO: Piracicaba, SP, de 10/09/2021 a 11/09/2021 (online)'
 - '64ª Reunião Anual da RBras: Cuiaba, MT, de 29/07/2019 a 02/08/2019'
 

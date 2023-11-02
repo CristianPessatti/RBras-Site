@@ -44,7 +44,7 @@ tabela:
   - categoria: SUPP
     valor: 50,00
 
-tut_filiacao_heading: 'Para se filiar à RBras ou atualizar seu cadastro siga os seguintes passos:'
+tut_filiacao_heading: 'To join RBras, please follow these steps:'
 
 tut_filiacao_passos:
 - 'Choose the membership category;'
@@ -54,7 +54,7 @@ tut_filiacao_passos:
   Account: 35350-7
   Grantee: REGIAO B S I BIOMETRIA (CNPJ: 64.047.327/0001-00)
   After the payment, we request that you send the proof by email to treasuryarbras@gmail.com.'
-- If the Student category was chosen, please also send the proof of enrolment in an academic degree to tesourariarbras@gmail.com, together with proof of payment;
+- If the Student category was chosen, please also send the proof of enrollment in an academic degree to tesourariarbras@gmail.com, together with proof of payment;
 - Fill out this form and wait for confirmation of membership via email.
 
 introducao_video: 'Assista o vídeo abaixo para verificar como acessar o sistema e sua conta/login:'
