@@ -169,9 +169,9 @@ googleAnalytics = ""  # add your tracking id
     # Footer Contact Info
     [params.footer.contactInfo]
       title   = "Informações para Contato"
-      address = "presidente@rbras.org.br"
-      phone   = "tesouraria@rbras.org.br"
-      email   = "secretaria@rbras.org.br"
+      address = "Presidente: presidente@rbras.org.br"
+      phone   = "Tesouraria: tesouraria@rbras.org.br"
+      email   = "Secretaria: secretaria@rbras.org.br"
       # Footer Sitemap
 #      [params.footer.sitemap]
 #        title   = "Sitemap"

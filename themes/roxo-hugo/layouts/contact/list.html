@@ -2,14 +2,14 @@
 <section class="site-contact">
   <div class="container">
     <div class="row">
-      <div class="col-lg-5">
+      <div class="col-lg-10">
         <h1 class="site-contact-title">
           {{ .Params.heading | safeHTML }}
         </h1>
         <ul>
-          <li>Presidente: Vera Tomazella, UFSCar (presidente@rbras.org.br)</li>
-          <li>Primeira Secretária: Renata Alcarde Sermarini, ESALQ/USP (secretaria@rbras.org.br)</li>
-          <li>Primeiro tesoureiro: Paulo Guimarães, UFLA (tesouraria@rbras.org.br)</li>
+          {{ range .Params.contatos }}
+          <li>{{ . }}</li>
+          {{ end }}
         </ul>
       </div>
       <!--<div class="col-lg-6 ml-auto">
