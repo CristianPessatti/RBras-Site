@@ -1,43 +1,88 @@
-languageCode  = "en-us"
 title         = "RBras"
+baseurl = "http://leg.ufpr.br/~ara/rbras_test/" #alterar
 theme = "roxo-hugo"
 summarylength = 25
-defaultContentLanguage = "pt-br"
+DefaultContentLanguage = "pt"
+googleAnalytics = ""  # add your tracking id
 
+[languages]
+  [languages.pt]
+    languageCode = "pt-BR"
+    languageName="pt"
+    contentDir = "content/pt"
+
+  [languages.en]
+    languageCode = "en-GB"
+    languageName="en"
+    contentDir = "content/en"
+
+  
 # Site Menus
 [menu]
   # Navbar Menus
-  [[menu.nav]]
+  [[languages.pt.menu.nav]]
     name    = "Home"
     url     = ""
     weight  = 1
-  [[menu.nav]]
+  [[languages.en.menu.nav]]
+    name    = "Home"
+    url     = ""
+    weight  = 1
+  [[languages.pt.menu.nav]]
     name    = "Sobre"
     url     = "about"
     weight  = 2
-  [[menu.nav]]
+  [[languages.en.menu.nav]]
+    name    = "About"
+    url     = "en/about"
+    weight  = 2
+  [[languages.pt.menu.nav]]
+    name    = "Eventos"
+    url     = "events"
+    weight  = 3
+  [[languages.en.menu.nav]]
+    name    = "Events"
+    url     = "en/events"
+    weight  = 3
+  [[languages.pt.menu.nav]]
     name    = "Notícias"
     url     = "blog"
-    weight  = 3
-  [[menu.nav]]
+    weight  = 4
+  [[languages.en.menu.nav]]
+    name    = "News"
+    url     = "en/blog"
+    weight  = 4
+  [[languages.pt.menu.nav]]
     name    = "Associados"
     url     = "associado"
-    weight  = 4
-  [[menu.nav]]
+    weight  = 5
+  [[languages.en.menu.nav]]
+    name    = "Members"
+    url     = "en/associado"
+    weight  = 5
+  [[languages.pt.menu.nav]]
     name    = "JP-Rbras"
     url     = "jp"
-    weight  = 5
-  [[menu.nav]]
+    weight  = 6
+  [[languages.en.menu.nav]]
+    name    = "JP-Rbras"
+    url     = "en/jp"
+    weight  = 6
+  [[languages.pt.menu.nav]]
     name    = "Publicações"
     url     = "publicacoes"
-    weight  = 6
-  [[menu.nav]]
+    weight  = 7
+  [[languages.en.menu.nav]]
+    name    = "Publications"
+    url     = "en/publicacoes"
+    weight  = 7
+  [[languages.pt.menu.nav]]
     name    = "Contato"
     url     = "contact"
-    weight  = 7
-  [[menu.nav]]
-    name    = "Português"
-    url     = ""
+    weight  = 8
+  [[languages.en.menu.nav]]
+    name    = "Contact"
+    url     = "en/contact"
     weight  = 8
 
 # Site Params
@@ -49,10 +94,11 @@ defaultContentLanguage = "pt-br"
   custom_stylesheets = []   # [ "scss/my_1.scss", "scss/my_2.scss" ]
   dateFormat = "26 FEB 1994"
   # Meta data
-  description = "Roxo Hugo themes | Design Agency Template by StaticMania"
+  description = "Adapted from Roxo Hugo themes | Template by StaticMania"
   author = "StaticMania"
   # Google Analitycs
-  googleAnalitycsID = "Your ID"
+  
+  
   # We're using formspree.io for form handling, paste your formspree url below
   fabform  = "https://fabform.io/f/USAg2Jl"
 
@@ -85,10 +131,14 @@ defaultContentLanguage = "pt-br"
     background_image      = "images/backgrounds/bg-br2.png"
     heading               = "RBras"
     tagline               = "Região Brasileira da Sociedade Internacional de Biometria"
+    tagline2              = "Brazilian Region of International Biometric Society"
     primary_button        = "Eventos"
-    primary_button_url    = "about"
+    primary_button2       = "Events" 
+    primary_button_url    = "events"
     secondary_button      = "Contato"
+    secondary_button2     = "Contact"
     secondary_button_url  = "contact"
+    
 
   [params.blog]
     read_more             = "Ler Mais"
@@ -103,12 +153,16 @@ defaultContentLanguage = "pt-br"
 
   [params.call_to_action]
     enable              = true
-    background_image    = "images/backgrounds/cta-background.jpg"
+    background_image    = "images/backgrounds/member-background.jpg"
     title               = "SEJA UM ASSOCIADO"
+    title2              = "BECOME A MEMBER"
     primary_button      = "Contato"
+    primary_button2     = "Contat"
     primary_button_url  = "contact"
+    primary_button_url2  = "en/contact"
     secondary_button    = "Saiba Mais"
-    secondary_button_url = "associado"
+    secondary_button2    = "Informations"
+    secondary_button_url2 = "en/associado"
 
   [params.footer]
     params.footer.qr_print = false

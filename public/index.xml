@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RBras</title>
+    <link>http://leg.ufpr.br/~ara/rbras_test/</link>
+    <description>Recent content on RBras</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Wed, 01 Feb 2023 13:45:06 +0600</lastBuildDate><atom:link href="http://leg.ufpr.br/~ara/rbras_test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chamada do financiamento para participação de estudantes associados aos eventos da RBras</title>
+      <link>http://leg.ufpr.br/~ara/rbras_test/blog/chamada-financiamento/</link>
+      <pubDate>Wed, 01 Feb 2023 13:45:06 +0600</pubDate>
+      
+      <guid>http://leg.ufpr.br/~ara/rbras_test/blog/chamada-financiamento/</guid>
+      <description>A Região Brasileira da Sociedade Internacional de Biometria – RBras informa que estará acolhendo propostas visando atender a participação de alunos para concorrer ao Fundo de financiamento para participação de estudantes associados aos eventos da RBras.</description>
+    </item>
+    
+    <item>
+      <title>NOVO SISTEMA WEB PARA OS ASSOCIADOS!</title>
+      <link>http://leg.ufpr.br/~ara/rbras_test/blog/design-inspiration-the-best-projects-from-november/</link>
+      <pubDate>Tue, 24 Jan 2023 13:36:06 +0600</pubDate>
+      
+      <guid>http://leg.ufpr.br/~ara/rbras_test/blog/design-inspiration-the-best-projects-from-november/</guid>
+      <description>A RBRAS disponibilizou um novo sistema para os associados! O sistema é desenvolvido pela Empresa Softaliza (https://associado.rbras.softaliza.com.br/) e através dele é possível verificar sua condição de sócio e realizar seus pagamentos, entre outras funcionalidades.</description>
+    </item>
+    
+  </channel>
+</rss>

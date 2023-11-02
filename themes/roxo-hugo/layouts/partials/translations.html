@@ -1,0 +1,15 @@
+{{ if .IsTranslated }}
+    {{ i18n "translations" }}
+    {{ range .Translations }}
+<!--    <li><a class="nav-item nav-link" href="{{ .Permalink }}"> <img src="http://leg.ufpr.br/~ara/{{ .Lang }}.png" width="12" height="12"></a></li> -->
+        <li class="nav-item"> 
+        <a class="nav-link btn btn-sm btn-primary btn-sm-rounded" href="{{ .Permalink }}">  
+               <span class="btn-area">
+                <span data-text="{{ .Lang }}">
+                  {{ .Lang }}
+                </span>
+              </span>
+        </a>
+        </li>
+    {{ end }}
+{{ end }}
