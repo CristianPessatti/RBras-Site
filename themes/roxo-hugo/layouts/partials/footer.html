@@ -4,17 +4,32 @@
       <div class="col-12">
         <div class="site-footer-logo"><a href="{{ .Site.BaseURL }}"><img src="{{ "images/logo-footer.png" | absURL }}" alt="logo-footer"></a></div>
       </div>
-      {{ with .Site.Params.footer.contactInfo }}
-      <div class="col-lg-6 col-md-6">
-        <div class="site-footer-widget">
-          <h5 class="site-footer-widget-title">{{ .title }}</h5>
-          <p class="site-footer-widget-description">{{ .address | safeHTML }}</p>
-          <p class="site-footer-widget-description">{{ .phone | safeHTML }}</p>
-          <p class="site-footer-widget-description">{{ .email | safeHTML }}</p>
-          
-        </div>
-      </div>
-      {{ end }}
+        {{ if eq .Site.Language.Lang "pt" }}
+        {{ with .Site.Params.footer.contactInfo }}
+          <div class="col-lg-6 col-md-6">
+            <div class="site-footer-widget">
+              <h5 class="site-footer-widget-title">{{ .title }}</h5>
+              <p class="site-footer-widget-description">{{ .address | safeHTML }}</p>
+              <p class="site-footer-widget-description">{{ .phone | safeHTML }}</p>
+              <p class="site-footer-widget-description">{{ .email | safeHTML }}</p>
+              
+            </div>
+          </div>
+        {{ end }}
+        {{ end }}
+        {{ if eq .Site.Language.Lang "en" }}
+        {{ with .Site.Params.footer.contactInfo }}
+          <div class="col-lg-6 col-md-6">
+            <div class="site-footer-widget">
+              <h5 class="site-footer-widget-title">{{ .title_en }}</h5>
+              <p class="site-footer-widget-description">{{ .address_en | safeHTML }}</p>
+              <p class="site-footer-widget-description">{{ .phone_en | safeHTML }}</p>
+              <p class="site-footer-widget-description">{{ .email_en | safeHTML }}</p>
+              
+            </div>
+          </div>
+        {{ end }}
+       {{ end }}
       {{ with .Site.Params.footer.sitemap }}
       <div class="col-lg-2 col-md-6">
         <div class="site-footer-widget">

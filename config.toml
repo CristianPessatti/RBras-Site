@@ -153,7 +153,7 @@ googleAnalytics = ""  # add your tracking id
 
   [params.call_to_action]
     enable              = true
-    background_image    = "images/backgrounds/member-background.jpg"
+    background_image    = "images/backgrounds/member-background.png"
     title               = "SEJA UM ASSOCIADO"
     title2              = "BECOME A MEMBER"
     primary_button      = "Contato"
@@ -168,10 +168,14 @@ googleAnalytics = ""  # add your tracking id
     params.footer.qr_print = false
     # Footer Contact Info
     [params.footer.contactInfo]
-      title   = "Informações para Contato"
-      address = "Presidente: presidente@rbras.org.br"
-      phone   = "Tesouraria: tesouraria@rbras.org.br"
-      email   = "Secretaria: secretaria@rbras.org.br"
+      title      = "Informações para Contato"
+      address    = "Presidente: presidente@rbras.org.br"
+      phone      = "Tesouraria: tesouraria@rbras.org.br"
+      email      = "Secretaria: secretaria@rbras.org.br"
+      title_en   = "Contact Information"
+      address_en = "President: presidente@rbras.org.br"
+      phone_en   = "Treasury: tesouraria@rbras.org.br"
+      email_en   = "Secretariat: secretaria@rbras.org.br"
       # Footer Sitemap
 #      [params.footer.sitemap]
 #        title   = "Sitemap"
