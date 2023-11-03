@@ -122,9 +122,9 @@
           <li>
             {{ .Params.estatuto_text }}<br><br>
             <center>
-            <a href="" class="btn btn-secondary">
+            <a class="btn btn-secondary" href="pdfs/estatuto/Estatuto_final_06_03_2021.pdf" download>
                 <span class="btn-area">
-                  <span data-text="CLIQUE AQUI">
+                  <span data-text="{{ .Params.estatuto_btn_text | safeHTML }}">
                     {{ .Params.estatuto_btn_text }}
                   </span>
                 </span>

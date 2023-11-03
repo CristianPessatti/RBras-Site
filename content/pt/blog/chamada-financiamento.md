@@ -2,7 +2,7 @@
 author: ''
 date: "2023-02-01T13:45:06+06:00"
 feature_image: ''
-image: images/blog/blog-post-04.jpg
+image: images/blog/financiamento.jpg
 title: 'Chamada do financiamento para participação de estudantes associados aos eventos da RBras'
 ---
 A Região Brasileira da Sociedade Internacional de Biometria – RBras informa que estará acolhendo
