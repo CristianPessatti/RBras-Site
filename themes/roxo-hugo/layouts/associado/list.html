@@ -41,17 +41,20 @@
           </ol>
           
           <br><br>
+          {{ if eq .Site.Language.Lang "pt" }}
           <h4>{{ .Params.introducao_video }}</h4>
           
           <iframe width="810" height="500" src="https://www.youtube.com/embed/wlNx_HMUQSg?si=E88ho521nIi9aVSe"></iframe> 
           
           <br><br>
+          
           <h4>{{ .Params.introducao_duvidas }}</h4>
           <ul>
             {{ range .Params.duvidas }}
             <li>{{ . }}</li>
             {{ end }}
           <ul>
+          {{ end }}
         </div>
         <div class="associado-header">
           <br><br>
