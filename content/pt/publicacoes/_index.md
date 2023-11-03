@@ -50,4 +50,10 @@ editores_asc:
 - Neir Antunes Paes, Federal University of Paraíba, Brazil
 - Luzia Aparecida Trinca, São Paulo State University, Brazil
 - Steven G Gilmour, King’s College London, United Kingdom
+
+boletins_lista:
+  - blt_title: 'Boletim RBras, Volume 5, número 1, 2021.1'
+    blt_link: 'http://rbras.org.br/wp-content/uploads/2021/12/Boletim-Rbras-2021.1.pdf'
+  - blt_title: 'Boletim RBras, Volume 3, número 1, 2019.1'
+    blt_link: 'http://rbras.org.br/wp-content/uploads/2021/12/boletim_rbras_2019.1.pdf'
 ---
