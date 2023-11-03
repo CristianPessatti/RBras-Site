@@ -66,7 +66,12 @@
       {{ end }}
       <div class="col-12">
         <div class="site-footer-copyright">
+          {{ if eq .Site.Language.Lang "pt" }}
           <p>© Copyright {{ dateFormat "2006" now }} - Adaptado de <a href="https://staticmania.com/" target="_blank">Roxo-Hugo by StaticMania</a> </p>
+          {{ end }}
+          {{ if eq .Site.Language.Lang "en" }}
+          <p>© Copyright {{ dateFormat "2006" now }} - Adapted from <a href="https://staticmania.com/" target="_blank">Roxo-Hugo by StaticMania</a> </p>
+          {{ end }}
         </div>
       </div>
     </div>
