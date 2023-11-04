@@ -1,0 +1,30 @@
+  {{ define "main" }}
+
+<section class="site-blog-header">
+  <div class="container">
+    <div class="row justify-content-left">
+        <img class="event-image" src="{{ .Params.img_logo | absURL }}" alt = "JP-RBras">
+        <div class="associado-header">
+          <p>{{ .Params.parag_inicial }}</p><br>
+          <h5>{{ .Params.site_evento }} <a href="{{ .Params.link_site | absURL }}" target="_blank">{{ .Params.link_site }}</a></h5>
+          <br> <br> <h5> {{ .Params.subti }}</h5> <br>
+          <ul>
+          <li>{{ .Params.parag_2 }}</li><br>
+          <li>{{ .Params.parag_3 }}</li><br>
+          <li>{{ .Params.parag_4 }}</li><br>
+          <p>{{ .Params.grupo_heading }}</p>
+          </ul> <br>
+          <ul>
+            {{range .Params.grupo }}
+            <li>{{ . }}</li>
+            {{ end }}
+          </ul>
+          <p>{{ .Params.conc }}</p>
+        </div>
+    </div>
+  </div>
+</section>
+
+<!--{{ partial "call-to-action.html" . }}-->
+
+{{ end }}

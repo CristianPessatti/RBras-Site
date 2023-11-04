@@ -4,16 +4,6 @@
   <url>
     <loc>http://leg.ufpr.br/~ara/rbras_test/blog/chamada-financiamento/</loc>
     <lastmod>2023-02-01T13:45:06+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-GB"
-                href="http://leg.ufpr.br/~ara/rbras_test/en/blog/chamada-financiamento/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-BR"
-                href="http://leg.ufpr.br/~ara/rbras_test/blog/chamada-financiamento/"
-                />
   </url><url>
     <loc>http://leg.ufpr.br/~ara/rbras_test/</loc>
     <lastmod>2023-02-01T13:45:06+06:00</lastmod>
@@ -30,16 +20,6 @@
   </url><url>
     <loc>http://leg.ufpr.br/~ara/rbras_test/blog/design-inspiration-the-best-projects-from-november/</loc>
     <lastmod>2023-01-24T13:36:06+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-GB"
-                href="http://leg.ufpr.br/~ara/rbras_test/en/blog/design-inspiration-the-best-projects-from-november/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-BR"
-                href="http://leg.ufpr.br/~ara/rbras_test/blog/design-inspiration-the-best-projects-from-november/"
-                />
   </url><url>
     <loc>http://leg.ufpr.br/~ara/rbras_test/contact/</loc>
     <lastmod>2019-12-23T20:17:01+06:00</lastmod>
@@ -80,6 +60,32 @@
                 href="http://leg.ufpr.br/~ara/rbras_test/associado/"
                 />
   </url><url>
+    <loc>http://leg.ufpr.br/~ara/rbras_test/boletim/</loc>
+    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="http://leg.ufpr.br/~ara/rbras_test/en/boletim/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-BR"
+                href="http://leg.ufpr.br/~ara/rbras_test/boletim/"
+                />
+  </url><url>
+    <loc>http://leg.ufpr.br/~ara/rbras_test/bjb/</loc>
+    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="http://leg.ufpr.br/~ara/rbras_test/en/bjb/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-BR"
+                href="http://leg.ufpr.br/~ara/rbras_test/bjb/"
+                />
+  </url><url>
     <loc>http://leg.ufpr.br/~ara/rbras_test/publicacoes/</loc>
     <lastmod>2018-07-12T18:19:33+06:00</lastmod>
     <xhtml:link
@@ -106,6 +112,57 @@
                 href="http://leg.ufpr.br/~ara/rbras_test/about/"
                 />
   </url><url>
+    <loc>http://leg.ufpr.br/~ara/rbras_test/diretoria/</loc>
+    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="http://leg.ufpr.br/~ara/rbras_test/en/diretoria/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-BR"
+                href="http://leg.ufpr.br/~ara/rbras_test/diretoria/"
+                />
+  </url><url>
+    <loc>http://leg.ufpr.br/~ara/rbras_test/estatuto/</loc>
+    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="http://leg.ufpr.br/~ara/rbras_test/en/estatuto/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-BR"
+                href="http://leg.ufpr.br/~ara/rbras_test/estatuto/"
+                />
+  </url><url>
+    <loc>http://leg.ufpr.br/~ara/rbras_test/quem_somos/</loc>
+    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="http://leg.ufpr.br/~ara/rbras_test/en/quem_somos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-BR"
+                href="http://leg.ufpr.br/~ara/rbras_test/quem_somos/"
+                />
+  </url><url>
+    <loc>http://leg.ufpr.br/~ara/rbras_test/historia/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="http://leg.ufpr.br/~ara/rbras_test/en/historia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-BR"
+                href="http://leg.ufpr.br/~ara/rbras_test/historia/"
+                />
+  </url><url>
     <loc>http://leg.ufpr.br/~ara/rbras_test/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -128,6 +185,18 @@
                 rel="alternate"
                 hreflang="pt-BR"
                 href="http://leg.ufpr.br/~ara/rbras_test/events/"
+                />
+  </url><url>
+    <loc>http://leg.ufpr.br/~ara/rbras_test/events_p/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="http://leg.ufpr.br/~ara/rbras_test/en/events_p/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-BR"
+                href="http://leg.ufpr.br/~ara/rbras_test/events_p/"
                 />
   </url><url>
     <loc>http://leg.ufpr.br/~ara/rbras_test/jp/</loc>

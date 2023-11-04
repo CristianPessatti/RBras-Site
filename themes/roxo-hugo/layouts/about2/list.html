@@ -1,0 +1,220 @@
+{{ define "main" }}
+
+<section class="site-about-header">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="site-about-wrapper">
+          <div class="site-about-company">
+            <h1>
+              {{ .Params.heading }}
+            </h1>
+          </div>
+          <div class="site-about-description">
+            <p>
+              {{ .Description }}
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="site-expertise">
+  <div class="container">
+    <div class="row">
+      {{ with .Params.expertise_title }}
+      <div class="col-md-5">
+        <div class="section-title">
+          <h2>{{ . }}</h2>
+        </div>
+      </div>
+      {{ end }}
+      <div class="col-md-6">
+        <ul class="site-expertise-list">
+          {{ range .Params.expertise_sectors }}
+          <li>{{ . }}</li>
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="site-expertise">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-5">
+        <ul class="site-expertise-list">
+          <li>
+            {{ .Params.internacional_sectors }}
+          </li>
+        </ul>
+      </div>
+      <div class="col-md-6">
+        <div class="section-title">
+          <h2>
+            {{ .Params.internacional_title }}
+          </h2>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="site-expertise">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-5">
+        <div class="section-title">
+          <h2>
+            {{ .Params.reunioes_title }}
+          </h2>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <ul class="site-expertise-list">
+          <li>
+            {{ .Params.reunioes_sectors }}
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="site-expertise">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-5">
+        <ul class="site-expertise-list">
+          <li>
+            {{ .Params.crescimento_sectors }}
+          </li>
+        </ul>
+      </div>
+      <div class="col-md-6">
+        <div class="section-title">
+          <h2>
+            {{ .Params.crescimento_title }}
+          </h2>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ partial "team.html" . }}
+
+<section class="site-expertise">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-5">
+        <div class="section-title">
+          <h2>
+            {{ .Params.estatuto_title }}
+          </h2>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <ul class="site-expertise-list">
+          <li>
+            {{ .Params.estatuto_text }}<br><br>
+            <center>
+            <a class="btn btn-secondary" href="http://rbras.org.br/wp-content/uploads/2021/12/Estatuto_final_06_03_2021.pdf" target="_blank">
+                <span class="btn-area">
+                  <span data-text="{{ .Params.estatuto_btn_text | safeHTML }}">
+                    {{ .Params.estatuto_btn_text }}
+                  </span>
+                </span>
+              </a>
+            </center>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="site-expertise">
+  <div class="container">
+    <div class="row justify-content-left">
+        <div class="section-title">
+          <h1>{{ .Params.historia_title }}</h1><br><br>
+          <h4>{{ .Params.historia_title_1 }}</h4>
+          <p>{{ .Params.historia_subtitle_1 }}</p>
+        </div>
+        <ul class="site-expertise-list">
+          {{ range .Params.historia_paragrafos }}
+          <li>{{ . }}</li>
+          {{ end }}
+        </ul>
+        <div class="section-title">
+          <br><br>
+          <h4>{{ .Params.historia_title_2 }}</h4>
+          <p>{{ .Params.historia_subtitle_2 }}</p>
+        </div>
+        <ul class="site-expertise-list">
+          {{ range .Params.historia_paragrafos_2 }}
+          <li>{{ . }}</li>
+          {{ end }}
+        </ul>
+        <div class="section-title">
+          <br><br>
+          <h4>{{ .Params.historia_title_3 }}</h4>
+        </div>
+        <ul class="site-expertise-list">
+          {{ range .Params.historia_paragrafos_3 }}
+          <li>{{ . }}</li>
+          {{ end }}
+        </ul>
+    </div>
+  </div>
+</section>
+
+<section class="site-expertise">
+  <div class="container">
+    <div class="row">
+      {{ with .Params.proximos_eventos_title }}
+      <div class="col-md-5">
+        <div class="section-title">
+          <h2>{{ . }}</h2>
+        </div>
+      </div>
+      {{ end }}
+      <div class="col-md-6">
+        <ul class="site-expertise-list">
+          {{ range .Params.proximos_eventos }}
+          <li>{{ . }}</li>
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="site-expertise">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-5">
+        <ul class="site-expertise-list">
+          {{ range .Params.passados_eventos }}
+          <li>{{ . }}</li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ with .Params.passados_eventos_title }}
+      <div class="col-md-6">
+        <div class="section-title">
+          <h2>{{ . }}</h2>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+{{ partial "call-to-action.html" . }}
+
+{{ end }}

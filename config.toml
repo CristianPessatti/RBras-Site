@@ -21,66 +21,162 @@ googleAnalytics = ""  # add your tracking id
 [menu]
   # Navbar Menus
   [[languages.pt.menu.nav]]
+    identifier = "home"
     name    = "Home"
     url     = ""
     weight  = 1
   [[languages.en.menu.nav]]
+    identifier = "home"
     name    = "Home"
     url     = "en/"
     weight  = 1
   [[languages.pt.menu.nav]]
+    identifier = "about"
     name    = "Sobre"
-    url     = "about"
+    url     = "#"
     weight  = 2
+  [[languages.pt.menu.nav]]
+    parent = "about"
+    name    = "Quem somos"
+    url     = "quem_somos"
+    weight  = 1
+  [[languages.pt.menu.nav]]
+    parent = "about"
+    name    = "Diretoria"
+    url     = "diretoria"
+    weight  = 2
+  [[languages.pt.menu.nav]]
+    parent = "about"
+    name    = "Estatuto"
+    url     = "estatuto"
+    weight  = 3
+  [[languages.pt.menu.nav]]
+    parent = "about"
+    name    = "História"
+    url     = "historia"
+    weight  = 4
   [[languages.en.menu.nav]]
+    identifier = "about"
     name    = "About"
     url     = "en/about"
     weight  = 2
-  [[languages.pt.menu.nav]]
-    name    = "Eventos"
-    url     = "events"
+  [[languages.en.menu.nav]]
+    parent = "about"
+    name    = "Who we are"
+    url     = "en/quem_somos"
+    weight  = 1
+  [[languages.en.menu.nav]]
+    parent = "about"
+    name    = "Board of Directors"
+    url     = "en/diretoria"
+    weight  = 2
+  [[languages.en.menu.nav]]
+    parent = "about"
+    name    = "Statute"
+    url     = "en/estatuto"
     weight  = 3
   [[languages.en.menu.nav]]
-    name    = "Events"
-    url     = "en/events"
+    parent = "about"
+    name    = "History"
+    url     = "en/historia"
+    weight  = 4
+  [[languages.pt.menu.nav]]
+    identifier = "events"
+    name    = "Eventos"
+    url     = "#"
     weight  = 3
   [[languages.pt.menu.nav]]
+    parent = "events"
+    name    = "Próximos"
+    url     = "events"
+    weight  = 1
+  [[languages.pt.menu.nav]]
+    parent = "events"
+    name    = "Passados"
+    url     = "events_p"
+    weight  = 2
+  [[languages.en.menu.nav]]
+    identifier = "events"
+    name    = "Events"
+    url     = "#"
+    weight  = 3
+  [[languages.en.menu.nav]]
+    parent = "events"
+    name    = "Next"
+    url     = "en/events"
+    weight  = 1
+  [[languages.en.menu.nav]]
+    parent = "events"
+    name    = "Past"
+    url     = "en/events_p"
+    weight  = 2
+  [[languages.pt.menu.nav]]
+    identifier = "blog"
     name    = "Notícias"
     url     = "blog"
     weight  = 4
   [[languages.en.menu.nav]]
+    identifier = "blog"
     name    = "News"
     url     = "en/blog"
     weight  = 4
   [[languages.pt.menu.nav]]
+    identifier = "associado"
     name    = "Associados"
     url     = "associado"
     weight  = 5
   [[languages.en.menu.nav]]
+    identifier = "associado"
     name    = "Members"
     url     = "en/associado"
     weight  = 5
   [[languages.pt.menu.nav]]
+    identifier = "jp"
     name    = "JP-Rbras"
     url     = "jp"
     weight  = 6
   [[languages.en.menu.nav]]
+    identifier = "jp"
     name    = "JP-Rbras"
     url     = "en/jp"
     weight  = 6
   [[languages.pt.menu.nav]]
+    identifier = "publicacoes"
     name    = "Publicações"
-    url     = "publicacoes"
-    weight  = 7
-  [[languages.en.menu.nav]]
-    name    = "Publications"
-    url     = "en/publicacoes"
+    url     = "#"
     weight  = 7
   [[languages.pt.menu.nav]]
+    parent = "publicacoes"
+    name    = "Brazilian Journal of Biometrics"
+    url     = "bjb"
+    weight  = 1
+  [[languages.pt.menu.nav]]
+    parent = "publicacoes"
+    name    = "Boletim RBras"
+    url     = "boletim"
+    weight  = 2
+  [[languages.en.menu.nav]]
+    identifier = "publicacoes"
+    name    = "Publications"
+    url     = "#"
+    weight  = 7
+  [[languages.en.menu.nav]]
+    parent = "publicacoes"
+    name    = "Brazilian Journal of Biometrics"
+    url     = "en/bjb"
+    weight  = 1
+  [[languages.en.menu.nav]]
+    parent = "publicacoes"
+    name    = "RBras Bulletin"
+    url     = "en/boletim"
+    weight  = 2
+  [[languages.pt.menu.nav]]
+    identifier = "contact"
     name    = "Contato"
     url     = "contact"
     weight  = 8
   [[languages.en.menu.nav]]
+    identifier = "contact"
     name    = "Contact"
     url     = "en/contact"
     weight  = 8
@@ -135,9 +231,11 @@ googleAnalytics = ""  # add your tracking id
     primary_button        = "Eventos"
     primary_button2       = "Events" 
     primary_button_url    = "events"
+    primary_button_url2   = "en/events"
     secondary_button      = "Contato"
     secondary_button2     = "Contact"
     secondary_button_url  = "contact"
+    secondary_button_url2 = "en/contact"
     
 
   [params.blog]

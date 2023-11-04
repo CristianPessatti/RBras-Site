@@ -1,0 +1,36 @@
+{{ define "main" }}
+
+<br>
+
+<br>
+
+<section class="site-expertise">
+  <div class="container">
+    <div class="row justify-content-left">
+        <div class="section-title">
+          <h3>{{ .Params.historia_title }}</h3><br><br>
+          <h4>{{ .Params.historia_title_1 }}</h4>
+          <p>{{ .Params.historia_subtitle_1 }}</p>
+        </div>
+        <ul class="site-expertise-list">
+          {{ range .Params.historia_paragrafos }}
+          <li>{{ . }}</li>
+          {{ end }}
+        </ul>
+        <div class="section-title">
+          <br><br>
+          <h4>{{ .Params.historia_title_2 }}</h4>
+          <p>{{ .Params.historia_subtitle_2 }}</p>
+        </div>
+        <ul class="site-expertise-list">
+          {{ range .Params.historia_paragrafos_2 }}
+          <li>{{ . }}</li>
+          {{ end }}
+        </ul>
+    </div>
+  </div>
+</section>
+
+{{ partial "call-to-action.html" . }}
+
+{{ end }}

@@ -1,0 +1,48 @@
+  {{ define "main" }}
+
+<section class="site-blog-header">
+  <div class="container">
+    <div class="row justify-content-left">
+      
+      <div class="associado-header">
+        <h2>{{ .Params.informes_heading }}</h2>
+        <p>{{ .Params.informes_text }}</p>
+      </div>
+      <!--<iframe src="pdfs/boletins/boletim-teste.pdf" width="600" height="780" style="border: none;"></iframe>-->
+    </div>
+        <div class="row justify-content-left">
+      <div class="associado-header">
+        <br><br>
+        <h3>{{ .Params.editores_heading }}</h3>
+        <ul>
+          {{ range .Params.editores_list }}
+          <li>{{ . }}</li>
+          {{ end }}
+        <ul>
+      </div>
+  </div>
+  <br> 
+  <div class="row justify-content-left">
+      <h3>{{ .Params.lista_titulo }}</h3>
+  </div>
+    {{ range .Params.boletins_lista }}
+    <br><br>
+    <!--<div class="col-md-6">-->
+    <div class="row justify-content-center">
+      <h5>{{ .blt_title }}</h5>
+    </div>
+    <div class="row justify-content-center">
+      <iframe class="publicacoes-pdf" src="{{ .blt_link | absURL }}"></iframe>
+    </div>
+    <!--</div>-->
+    {{ end }}
+    <br>
+  </div>
+</section> <br>
+
+    
+</section>
+
+<!--{{ partial "call-to-action.html" . }}-->
+
+{{ end }}

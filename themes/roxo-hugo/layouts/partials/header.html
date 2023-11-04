@@ -20,11 +20,25 @@
         {{$len := (len $menu)}} 
         {{ range $index, $element := $menu }} 
 
+          {{ if .HasChildren }}
+          <li class="dropdown nav-item">
+           <a class="dropdown-toggle nav-link" data-toggle="dropdown" href="#" > {{ .Name }} </a>
+           <ul class="dropdown-menu">
+        {{ range .Children }}
+        <li > <a class="nav-link"  href="{{ .URL | absURL }}" >
+            {{ .Name }} </a>
+        </li>
+        {{ end }}
+      </ul>
+            </li>
+          {{ else }}
+          
           <li class="nav-item">
-            <a class="nav-link" href="{{ .URL | absURL }}"
-              >{{ .Name }}</a
+          <a class="nav-link" href="{{ .URL | absURL }}"
+              >{{ .Name }} </a
             >
           </li>
+          {{ end }} 
 
         {{ end }} 
     
