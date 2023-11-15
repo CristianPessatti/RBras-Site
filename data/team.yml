@@ -2,53 +2,53 @@ enable  : true
 title   : DIRETORIA BIÊNIO 2022-2024
 title2  : BOARD OF DIRECTORS 2022-2024
 members  :
-  - image       : images/team/team-member-one.jpg
+  - image       : images/team/vera-tomazella.jpeg
     name        : Vera Tomazella
     designation : Presidente
     designation2: President
-    medium      : https://www.medium.com/
-    linkedin    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+    medium      : ./diretoria
+    linkedin    : ./diretoria
+    instagram   : ./diretoria
 
-  - image        : images/team/team-member-two.jpg
+  - image        : images/team/afranio-vieira.jpeg
     name         : Afrânio Vieira
     designation  : Vice-Presidente
     designation2 : Vice-President
-    medium       : https://www.medium.com/
-    linkedin     : https://www.linkedin.com/
-    instagram    : https://www.instagram.com/
+    medium       : ./diretoria
+    linkedin     : ./diretoria
+    instagram    : ./diretoria
 
-  - image        : images/team/team-member-three.jpg
+  - image        : images/team/mulher.png
     name         : Renata Alcarde Sermarini
     designation  : 1º Secretária
     designation2 : 1st Secretary
-    medium       : https://www.medium.com/
-    linkedin     : https://www.linkedin.com/
-    instagram    : https://www.instagram.com/
+    medium       : ./diretoria
+    linkedin     : ./diretoria
+    instagram    : ./diretoria
 
-  - image        : images/team/team-member-five.jpg
+  - image        : images/team/anderson-ara.jpeg
     name         : Anderson Ara
     designation  : 2º Secretário
     designation2 : 2nd Secretary
-    medium       : https://www.medium.com/
-    linkedin     : https://www.linkedin.com/
-    instagram    : https://www.instagram.com/
+    medium       : ./diretoria
+    linkedin     : ./diretoria
+    instagram    : ./diretoria
 
-  - image        : images/team/team-member-six.jpg
+  - image        : images/team/paulo-guimaraes.jpeg
     name         : Paulo Henrique Sales Guimarães
     designation  : 1º Tesoureiro
     designation2 : 1st Treasurer
-    medium       : https://www.medium.com/
-    linkedin     : https://www.linkedin.com/
-    instagram    : https://www.instagram.com/
+    medium       : ./diretoria
+    linkedin     : ./diretoria
+    instagram    : ./diretoria
     
-  - image        : images/team/team-member-six.jpg
+  - image        : images/team/marcelo.jpg
     name         : Marcelo Bourguignon
     designation  : 2º Tesoureiro
     designation2 : 2nd Treasurer
-    medium       : https://www.medium.com/
-    linkedin     : https://www.linkedin.com/
-    instagram    : https://www.instagram.com/
+    medium       : ./diretoria
+    linkedin     : ./diretoria
+    instagram    : ./diretoria
 
 conselho_title: MEMBROS DO CONSELHO DA RBRAS
 conselho_title2: BOARD MEMBERS OF RBRAS
@@ -56,44 +56,44 @@ conselho_members:
   - image       : images/team/team-member-one.jpg
     name        : Carlos Alberto de Bragança Pereira
     designation : 2021-2024
-    medium      : https://www.medium.com/
-    linkedin    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+    medium      : ./diretoria
+    linkedin    : ./diretoria
+    instagram   : ./diretoria
 
   - image       : images/team/team-member-two.jpg
     name        : Pedro Ferreira Filho
     designation : 2021-2024
-    medium      : https://www.medium.com/
-    linkedin    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+    medium      : ./diretoria
+    linkedin    : ./diretoria
+    instagram   : ./diretoria
 
   - image       : images/team/team-member-three.jpg
     name        : Roseli Aparecida Leandro
     designation : 2020-2023
-    medium      : https://www.medium.com/
-    linkedin    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+    medium      : ./diretoria
+    linkedin    : ./diretoria
+    instagram   : ./diretoria
 
   - image       : images/team/team-member-four.jpg
     name        : Luiz Nakamura
     designation : 2020-2023
-    medium      : https://www.medium.com/
-    linkedin    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+    medium      : ./diretoria
+    linkedin    : ./diretoria
+    instagram   : ./diretoria
 
   - image       : images/team/team-member-five.jpg
     name        : Taciana Villela Savian
     designation : 2022-2025
-    medium      : https://www.medium.com/
-    linkedin    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+    medium      : ./diretoria
+    linkedin    : ./diretoria
+    instagram   : ./diretoria
 
   - image       : images/team/team-member-six.jpg
     name        : Waldomiro Barioni Júnior
     designation : 2022-2025
-    medium      : https://www.medium.com/
-    linkedin    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+    medium      : ./diretoria
+    linkedin    : ./diretoria
+    instagram   : ./diretoria
     
 pres_anterior_title: PRESIDENTE DA DIRETORIA DO MANDATO ANTERIOR
 pres_anterior_title2: PRESIDENT FROM LAST BOARD OF DIRECTORS
@@ -101,32 +101,32 @@ pres_anterior_members:
   - image       : images/team/team-member-six.jpg
     name        : Paulo Canas Rodrigues
     designation : 2020-2022
-    medium      : https://www.medium.com/
-    linkedin    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+    medium      : ./diretoria
+    linkedin    : ./diretoria
+    instagram   : ./diretoria
     
 eleitos_ibs_title: ASSOCIADOS DA RBRAS ELEITOS PARA CARGOS DA IBS
 eleitos_ibs_members:
   - image       : images/team/team-member-six.jpg
     name        : Paulo Canas Rodrigues
     designation : Representative Council
-    medium      : https://www.medium.com/
-    linkedin    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+    medium      : ./diretoria
+    linkedin    : ./diretoria
+    instagram   : ./diretoria
     
   - image       : images/team/team-member-six.jpg
     name        : Renato Martins Assunção
     designation : Representative Council
-    medium      : https://www.medium.com/
-    linkedin    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+    medium      : ./diretoria
+    linkedin    : ./diretoria
+    instagram   : ./diretoria
     
   - image       : images/team/team-member-six.jpg
     name        : Idemauro Antonio Rodrigues de Lara
     designation : Representative Council
-    medium      : https://www.medium.com/
-    linkedin    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+    medium      : ./diretoria
+    linkedin    : ./diretoria
+    instagram   : ./diretoria
 
 nomeados_ibs_title: ASSOCIADOS DA RBRAS NOMEADOS PARA COMITÊS DA IBS (EX-OFFICIO)
 nomeados_ibs_title2: RBRAS MEMBERS APPOINTED TO THE IBS COMMITTEES (EX-OFFICIO)
@@ -134,30 +134,30 @@ nomeados_ibs_members:
   - image       : images/team/team-member-six.jpg
     name        : Luzia Aparecida Trinca
     designation : International Program Committee
-    medium      : https://www.medium.com/
-    linkedin    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+    medium      : ./diretoria
+    linkedin    : ./diretoria
+    instagram   : ./diretoria
     
   - image       : images/team/team-member-six.jpg
     name        : Renato Martins Assunção
     designation : Editorial Advisory Committee
-    medium      : https://www.medium.com/
-    linkedin    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+    medium      : ./diretoria
+    linkedin    : ./diretoria
+    instagram   : ./diretoria
     
   - image       : images/team/team-member-six.jpg
     name        : Julia Maria Pavan Soler
     designation : Awards Fund Committee
-    medium      : https://www.medium.com/
-    linkedin    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+    medium      : ./diretoria
+    linkedin    : ./diretoria
+    instagram   : ./diretoria
     
   - image       : images/team/team-member-six.jpg
     name        : Luiz Ricardo Nakamura
     designation : Education Committee
-    medium      : https://www.medium.com/
-    linkedin    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+    medium      : ./diretoria
+    linkedin    : ./diretoria
+    instagram   : ./diretoria
     
 coord_jp_title: COORDENADOR DO GRUPO DE JOVENS PESQUISADORES DA RBRAS (EX-OFFICIO)
 coord_jp_title2: COORDINATOR OF THE  YOUNG RESEARCHERS GROUP AT RBRAS (EX-OFFICIO)
@@ -166,6 +166,6 @@ coord_jp_members:
     name        : Guilherme Aparecido Santos Aguilar
     designation : Coordenador
     designation2: Coordinator
-    medium      : https://www.medium.com/
-    linkedin    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+    medium      : ./diretoria
+    linkedin    : ./diretoria
+    instagram   : ./diretoria
