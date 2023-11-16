@@ -11,9 +11,9 @@ testimonial_item :
     quote : "UFSCar, SP. vera@ufscar.br"
 
   - thumb : "images/team/afranio-vieira.jpeg"
-    name  : "Alfrânio Vieira"
+    name  : "Afrânio Vieira"
     company_position: "Vice-Presidente"
-    company_position2: "Vice-Presidente"
+    company_position2: "Vice President"
     quote : "UFSCar, SP. afranio@ufscar.br"
     
   - thumb : "images/team/renata_foto.jpeg"
