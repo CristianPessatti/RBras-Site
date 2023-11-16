@@ -1,5 +1,5 @@
 title         = "RBras"
-baseurl = "http://www.rbras.org.br/" #alterar
+baseurl = "https://www.rbras.org.br/" #alterar
 theme = "roxo-hugo"
 summarylength = 25
 DefaultContentLanguage = "pt"
