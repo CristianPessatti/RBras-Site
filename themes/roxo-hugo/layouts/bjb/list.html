@@ -19,8 +19,13 @@
     <!--</div>-->
     {{ end }}
     <div class="row justify-content-left">
+
+
       <div class="associado-header">
-        <h3>{{ .Params.editores_heading }}</h3>
+        
+        <h3><center> <a href="https://biometria.ufla.br/index.php/BBJ" target="_blank"> Brazilian Journal of Biometrics </a> </center></h3>
+        
+        <!-- <h2>{{ .Params.editores_heading }}</h2> -->
         <ul>
           {{ range .Params.editores_list }}
           <li>{{ . }}</li>
@@ -28,7 +33,7 @@
         <ul>
       </div>
       <div class="associado-header">
-        <h2> Brazilian Journal of Biometrics </h2> <br>
+       <!-- <h2> Brazilian Journal of Biometrics </h2> <br> -->
         <h3>{{ .Params.equipe_editorial_title }}</h3>
         <p><b>{{ .Params.editor_chefe_title }}</b></p>
         <ul>

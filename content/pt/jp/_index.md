@@ -10,7 +10,7 @@ grupo_heading: 'O grupo é composto pelos seguintes membros:'
 
 grupo:
 - 'Coordenador: Guilherme Aparecido Santos Aguilar (UNESP-Presidente Prudente);'
-- 'Vice-Coordenadora: Fernanda Venturato Roquim (UFES);'
+- 'Vice-Coordenadora: Marcos Jardel Henriques (PIPGEs-UFSCar/USP);'
 - 'Secretário: Kleber Henrique (UFPE);'
 - 'Tesoureira: Patrícia Stulp (UFSCar/USP);'
 - 'Organizador de Eventos: Allison Queiroz de Oliveira (USP);'

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JP-RBras on RBras</title>
-    <link>http://leg.ufpr.br/~ara/rbras_test/jp/</link>
+    <link>https://www.rbras.org.br/jp/</link>
     <description>Recent content in JP-RBras on RBras</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-BR</language><atom:link href="http://leg.ufpr.br/~ara/rbras_test/jp/index.xml" rel="self" type="application/rss+xml" />
+    <language>pt-BR</language><atom:link href="https://www.rbras.org.br/jp/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

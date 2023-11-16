@@ -64,7 +64,7 @@ duvidas:
 - 'Dúvidas sobre o sistema: secretaria@rbras.org.br ou contato@softaliza.com.br'
 - 'Dúvidas sobre procedimentos financeiros: tesouraria@rbras.org.br'
 
-premiacoes_heading: Awards
+premiacoes_heading: RBras Highlight Award
 premiacoes:
 - 2022. Julio Singer (USP)
 - 2021. None due the pandemic restrictions

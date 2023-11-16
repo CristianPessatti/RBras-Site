@@ -42,6 +42,8 @@
         </div>
       </div>
       {{ end }}
+              
+      {{ if eq .Site.Language.Lang "pt" }}
       {{ with .Site.Params.footer.social }}
       <div class="col-lg-2 col-md-6">
         <div class="site-footer-widget">
@@ -53,6 +55,21 @@
           </ul>
         </div>
       </div>
+      {{ end }}
+      {{ end }}
+      {{ if eq .Site.Language.Lang "en" }}
+      {{ with .Site.Params.footer.social }}
+      <div class="col-lg-2 col-md-6">
+        <div class="site-footer-widget">
+          <h5 class="site-footer-widget-title">{{ .title_en }}</h5>
+          <ul class="site-footer-widget-links">
+            {{ range .link }}
+              <li><a href="{{ .url }}">{{ .name }}</a></li>
+            {{ end }}
+          </ul>
+        </div>
+      </div>
+      {{ end }}
       {{ end }}
       {{ with .Site.Params.footer.service }}
       <div class="col-lg-3 col-md-6">

@@ -1,5 +1,5 @@
 title         = "RBras"
-baseurl = "http://leg.ufpr.br/~ara/rbras_test/" #alterar
+baseurl = "http://www.rbras.org.br/" #alterar
 theme = "roxo-hugo"
 summarylength = 25
 DefaultContentLanguage = "pt"
@@ -268,13 +268,13 @@ googleAnalytics = ""  # add your tracking id
     # Footer Contact Info
     [params.footer.contactInfo]
       title      = "Informações para Contato"
-      address    = "Presidente: presidente@rbras.org.br"
-      phone      = "Tesouraria: tesouraria@rbras.org.br"
-      email      = "Secretaria: secretaria@rbras.org.br"
+      address    = "Presidente: presidente@rbras.org.br -  Tesouraria: tesouraria@rbras.org.br - Secretaria: secretaria@rbras.org.br"
+      #phone      = "Tesouraria: tesouraria@rbras.org.br"
+      #email      = "Secretaria: secretaria@rbras.org.br"
       title_en   = "Contact Information"
-      address_en = "President: presidente@rbras.org.br"
-      phone_en   = "Treasury: tesouraria@rbras.org.br"
-      email_en   = "Secretariat: secretaria@rbras.org.br"
+      address_en = "President: presidente@rbras.org.br - Treasury: tesouraria@rbras.org.br - Secretariat: secretaria@rbras.org.br"
+#      phone_en   = "Treasury: tesouraria@rbras.org.br"
+#      email_en   = "Secretariat: secretaria@rbras.org.br"
       # Footer Sitemap
 #      [params.footer.sitemap]
 #        title   = "Sitemap"
@@ -291,8 +291,9 @@ googleAnalytics = ""  # add your tracking id
 #          name = "Contact"
 #          url  = "contact"
       # Footer Social Media
-#      [params.footer.social]
-#        title   = "Social Media"
+      [params.footer.social]
+      title   = "Redes Sociais"
+      title_en   = "Social Media"
 #        [[params.footer.social.link]]
 #          name = "Medium"
 #          url  = "#"
@@ -302,9 +303,9 @@ googleAnalytics = ""  # add your tracking id
 #        [[params.footer.social.link]]
 #          name = "Dribbble"
 #          url  = "#"
-#        [[params.footer.social.link]]
-#          name = "Instagram"
-#          url  = "#"
+        [[params.footer.social.link]]
+          name = "@rbras.estatistica"
+          url  = "https://www.instagram.com/rbras.estatistica/"
       # Footer Service
 #      [params.footer.service]
 #        title       = "We help brands:"

@@ -11,7 +11,7 @@ grupo_heading: 'Nowadays, the group is composed of the following members:'
 
 grupo:
 - 'Guilherme Aparecido Santos Aguilar (UNESP, Presidente Prudente; Coordinator);'
-- 'Fernanda Venturato Roquim (UFLA, MG; Vice-Coordinator);'
+- 'Marcos Jardel Henriques (PIPGEs-UFSCar/USP; Vice-Coordinator);'
 - 'Kleber Henrique (UFPE);'
 - 'Patrícia Stulp (UFSCar/USP);'
 - 'Allison Queiroz de Oliveira (USP);'

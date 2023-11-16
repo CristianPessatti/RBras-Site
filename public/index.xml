@@ -2,26 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>RBras</title>
-    <link>http://leg.ufpr.br/~ara/rbras_test/</link>
+    <link>https://www.rbras.org.br/</link>
     <description>Recent content on RBras</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Feb 2023 13:45:06 +0600</lastBuildDate><atom:link href="http://leg.ufpr.br/~ara/rbras_test/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Nov 2023 13:36:07 +0600</lastBuildDate><atom:link href="https://www.rbras.org.br/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Novo Site da RBRas</title>
+      <link>https://www.rbras.org.br/blog/novosite/</link>
+      <pubDate>Wed, 15 Nov 2023 13:36:07 +0600</pubDate>
+      
+      <guid>https://www.rbras.org.br/blog/novosite/</guid>
+      <description>Em novembro de 2023, a RBRas está lançando o seu novo site, trazendo um design mais moderno e eficiente.
+O site foi desenvolvido inteiramente com a framework RBlogdown, a fim de aprimorar o site e facilitar a edição do mesmo pelas gestões futuras.</description>
+    </item>
+    
+    <item>
+      <title>67ª RBras e 20º SEAGRO, Londrina PR!</title>
+      <link>https://www.rbras.org.br/blog/rbras67/</link>
+      <pubDate>Wed, 15 Nov 2023 13:36:06 +0600</pubDate>
+      
+      <guid>https://www.rbras.org.br/blog/rbras67/</guid>
+      <description>A 67ª RBras e 20º SEAGRO foi realizada de 24 a 28 de julho de 2023 no Centro de Eventos e Convenções do Aurora Shopping da cidade de Londrina/PR.</description>
+    </item>
+    
     <item>
       <title>Chamada do financiamento para participação de estudantes associados aos eventos da RBras</title>
-      <link>http://leg.ufpr.br/~ara/rbras_test/blog/chamada-financiamento/</link>
+      <link>https://www.rbras.org.br/blog/chamada-financiamento/</link>
       <pubDate>Wed, 01 Feb 2023 13:45:06 +0600</pubDate>
       
-      <guid>http://leg.ufpr.br/~ara/rbras_test/blog/chamada-financiamento/</guid>
+      <guid>https://www.rbras.org.br/blog/chamada-financiamento/</guid>
       <description>A Região Brasileira da Sociedade Internacional de Biometria – RBras informa que estará acolhendo propostas visando atender a participação de alunos para concorrer ao Fundo de financiamento para participação de estudantes associados aos eventos da RBras.</description>
     </item>
     
     <item>
       <title>NOVO SISTEMA WEB PARA OS ASSOCIADOS!</title>
-      <link>http://leg.ufpr.br/~ara/rbras_test/blog/design-inspiration-the-best-projects-from-november/</link>
+      <link>https://www.rbras.org.br/blog/novosistema/</link>
       <pubDate>Tue, 24 Jan 2023 13:36:06 +0600</pubDate>
       
-      <guid>http://leg.ufpr.br/~ara/rbras_test/blog/design-inspiration-the-best-projects-from-november/</guid>
+      <guid>https://www.rbras.org.br/blog/novosistema/</guid>
       <description>A RBRAS disponibilizou um novo sistema para os associados! O sistema é desenvolvido pela Empresa Softaliza (https://associado.rbras.softaliza.com.br/) e através dele é possível verificar sua condição de sócio e realizar seus pagamentos, entre outras funcionalidades.</description>
     </item>
     

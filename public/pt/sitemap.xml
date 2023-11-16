@@ -2,225 +2,271 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://leg.ufpr.br/~ara/rbras_test/blog/chamada-financiamento/</loc>
-    <lastmod>2023-02-01T13:45:06+06:00</lastmod>
-  </url><url>
-    <loc>http://leg.ufpr.br/~ara/rbras_test/</loc>
-    <lastmod>2023-02-01T13:45:06+06:00</lastmod>
+    <loc>https://www.rbras.org.br/blog/novosite/</loc>
+    <lastmod>2023-11-15T13:36:07+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
-                href="http://leg.ufpr.br/~ara/rbras_test/en/"
+                href="https://www.rbras.org.br/en/blog/novosite/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://leg.ufpr.br/~ara/rbras_test/"
+                href="https://www.rbras.org.br/blog/novosite/"
                 />
   </url><url>
-    <loc>http://leg.ufpr.br/~ara/rbras_test/blog/design-inspiration-the-best-projects-from-november/</loc>
+    <loc>https://www.rbras.org.br/</loc>
+    <lastmod>2023-11-15T13:36:07+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://www.rbras.org.br/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-BR"
+                href="https://www.rbras.org.br/"
+                />
+  </url><url>
+    <loc>https://www.rbras.org.br/blog/rbras67/</loc>
+    <lastmod>2023-11-15T13:36:06+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://www.rbras.org.br/en/blog/rbras67/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-BR"
+                href="https://www.rbras.org.br/blog/rbras67/"
+                />
+  </url><url>
+    <loc>https://www.rbras.org.br/blog/chamada-financiamento/</loc>
+    <lastmod>2023-02-01T13:45:06+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://www.rbras.org.br/en/blog/chamada-financiamento/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-BR"
+                href="https://www.rbras.org.br/blog/chamada-financiamento/"
+                />
+  </url><url>
+    <loc>https://www.rbras.org.br/blog/novosistema/</loc>
     <lastmod>2023-01-24T13:36:06+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://www.rbras.org.br/en/blog/novosistema/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-BR"
+                href="https://www.rbras.org.br/blog/novosistema/"
+                />
   </url><url>
-    <loc>http://leg.ufpr.br/~ara/rbras_test/contact/</loc>
+    <loc>https://www.rbras.org.br/contact/</loc>
     <lastmod>2019-12-23T20:17:01+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
-                href="http://leg.ufpr.br/~ara/rbras_test/en/contact/"
+                href="https://www.rbras.org.br/en/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://leg.ufpr.br/~ara/rbras_test/contact/"
+                href="https://www.rbras.org.br/contact/"
                 />
   </url><url>
-    <loc>http://leg.ufpr.br/~ara/rbras_test/blog/</loc>
+    <loc>https://www.rbras.org.br/blog/</loc>
     <lastmod>2019-12-23T20:17:01+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
-                href="http://leg.ufpr.br/~ara/rbras_test/en/blog/"
+                href="https://www.rbras.org.br/en/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://leg.ufpr.br/~ara/rbras_test/blog/"
+                href="https://www.rbras.org.br/blog/"
                 />
   </url><url>
-    <loc>http://leg.ufpr.br/~ara/rbras_test/associado/</loc>
+    <loc>https://www.rbras.org.br/associado/</loc>
     <lastmod>2018-07-12T18:19:33+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
-                href="http://leg.ufpr.br/~ara/rbras_test/en/associado/"
+                href="https://www.rbras.org.br/en/associado/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://leg.ufpr.br/~ara/rbras_test/associado/"
+                href="https://www.rbras.org.br/associado/"
                 />
   </url><url>
-    <loc>http://leg.ufpr.br/~ara/rbras_test/boletim/</loc>
+    <loc>https://www.rbras.org.br/boletim/</loc>
     <lastmod>2018-07-12T18:19:33+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
-                href="http://leg.ufpr.br/~ara/rbras_test/en/boletim/"
+                href="https://www.rbras.org.br/en/boletim/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://leg.ufpr.br/~ara/rbras_test/boletim/"
+                href="https://www.rbras.org.br/boletim/"
                 />
   </url><url>
-    <loc>http://leg.ufpr.br/~ara/rbras_test/bjb/</loc>
+    <loc>https://www.rbras.org.br/bjb/</loc>
     <lastmod>2018-07-12T18:19:33+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
-                href="http://leg.ufpr.br/~ara/rbras_test/en/bjb/"
+                href="https://www.rbras.org.br/en/bjb/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://leg.ufpr.br/~ara/rbras_test/bjb/"
+                href="https://www.rbras.org.br/bjb/"
                 />
   </url><url>
-    <loc>http://leg.ufpr.br/~ara/rbras_test/publicacoes/</loc>
+    <loc>https://www.rbras.org.br/publicacoes/</loc>
     <lastmod>2018-07-12T18:19:33+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
-                href="http://leg.ufpr.br/~ara/rbras_test/en/publicacoes/"
+                href="https://www.rbras.org.br/en/publicacoes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://leg.ufpr.br/~ara/rbras_test/publicacoes/"
+                href="https://www.rbras.org.br/publicacoes/"
                 />
   </url><url>
-    <loc>http://leg.ufpr.br/~ara/rbras_test/about/</loc>
+    <loc>https://www.rbras.org.br/about/</loc>
     <lastmod>2018-07-12T18:19:33+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
-                href="http://leg.ufpr.br/~ara/rbras_test/en/about/"
+                href="https://www.rbras.org.br/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://leg.ufpr.br/~ara/rbras_test/about/"
+                href="https://www.rbras.org.br/about/"
                 />
   </url><url>
-    <loc>http://leg.ufpr.br/~ara/rbras_test/diretoria/</loc>
+    <loc>https://www.rbras.org.br/diretoria/</loc>
     <lastmod>2018-07-12T18:19:33+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
-                href="http://leg.ufpr.br/~ara/rbras_test/en/diretoria/"
+                href="https://www.rbras.org.br/en/diretoria/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://leg.ufpr.br/~ara/rbras_test/diretoria/"
+                href="https://www.rbras.org.br/diretoria/"
                 />
   </url><url>
-    <loc>http://leg.ufpr.br/~ara/rbras_test/estatuto/</loc>
+    <loc>https://www.rbras.org.br/estatuto/</loc>
     <lastmod>2018-07-12T18:19:33+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
-                href="http://leg.ufpr.br/~ara/rbras_test/en/estatuto/"
+                href="https://www.rbras.org.br/en/estatuto/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://leg.ufpr.br/~ara/rbras_test/estatuto/"
+                href="https://www.rbras.org.br/estatuto/"
                 />
   </url><url>
-    <loc>http://leg.ufpr.br/~ara/rbras_test/quem_somos/</loc>
+    <loc>https://www.rbras.org.br/quem_somos/</loc>
     <lastmod>2018-07-12T18:19:33+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
-                href="http://leg.ufpr.br/~ara/rbras_test/en/quem_somos/"
+                href="https://www.rbras.org.br/en/quem_somos/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://leg.ufpr.br/~ara/rbras_test/quem_somos/"
+                href="https://www.rbras.org.br/quem_somos/"
                 />
   </url><url>
-    <loc>http://leg.ufpr.br/~ara/rbras_test/historia/</loc>
+    <loc>https://www.rbras.org.br/historia/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
-                href="http://leg.ufpr.br/~ara/rbras_test/en/historia/"
+                href="https://www.rbras.org.br/en/historia/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://leg.ufpr.br/~ara/rbras_test/historia/"
+                href="https://www.rbras.org.br/historia/"
                 />
   </url><url>
-    <loc>http://leg.ufpr.br/~ara/rbras_test/categories/</loc>
+    <loc>https://www.rbras.org.br/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
-                href="http://leg.ufpr.br/~ara/rbras_test/en/categories/"
+                href="https://www.rbras.org.br/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://leg.ufpr.br/~ara/rbras_test/categories/"
+                href="https://www.rbras.org.br/categories/"
                 />
   </url><url>
-    <loc>http://leg.ufpr.br/~ara/rbras_test/events/</loc>
+    <loc>https://www.rbras.org.br/events/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
-                href="http://leg.ufpr.br/~ara/rbras_test/en/events/"
+                href="https://www.rbras.org.br/en/events/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://leg.ufpr.br/~ara/rbras_test/events/"
+                href="https://www.rbras.org.br/events/"
                 />
   </url><url>
-    <loc>http://leg.ufpr.br/~ara/rbras_test/events_p/</loc>
+    <loc>https://www.rbras.org.br/events_p/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
-                href="http://leg.ufpr.br/~ara/rbras_test/en/events_p/"
+                href="https://www.rbras.org.br/en/events_p/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://leg.ufpr.br/~ara/rbras_test/events_p/"
+                href="https://www.rbras.org.br/events_p/"
                 />
   </url><url>
-    <loc>http://leg.ufpr.br/~ara/rbras_test/jp/</loc>
+    <loc>https://www.rbras.org.br/jp/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
-                href="http://leg.ufpr.br/~ara/rbras_test/en/jp/"
+                href="https://www.rbras.org.br/en/jp/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://leg.ufpr.br/~ara/rbras_test/jp/"
+                href="https://www.rbras.org.br/jp/"
                 />
   </url><url>
-    <loc>http://leg.ufpr.br/~ara/rbras_test/tags/</loc>
+    <loc>https://www.rbras.org.br/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
-                href="http://leg.ufpr.br/~ara/rbras_test/en/tags/"
+                href="https://www.rbras.org.br/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://leg.ufpr.br/~ara/rbras_test/tags/"
+                href="https://www.rbras.org.br/tags/"
                 />
   </url>
 </urlset>

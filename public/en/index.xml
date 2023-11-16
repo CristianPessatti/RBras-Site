@@ -2,18 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>RBras</title>
-    <link>http://leg.ufpr.br/~ara/rbras_test/en/</link>
+    <link>https://www.rbras.org.br/en/</link>
     <description>Recent content on RBras</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
-    <lastBuildDate>Wed, 01 Feb 2023 13:45:06 +0600</lastBuildDate><atom:link href="http://leg.ufpr.br/~ara/rbras_test/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Nov 2023 13:36:07 +0600</lastBuildDate><atom:link href="https://www.rbras.org.br/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RBras new website</title>
+      <link>https://www.rbras.org.br/en/blog/novosite/</link>
+      <pubDate>Wed, 15 Nov 2023 13:36:07 +0600</pubDate>
+      
+      <guid>https://www.rbras.org.br/en/blog/novosite/</guid>
+      <description>In November 2023, RBras is launching its new website, featuring a more modern and efficient design.
+The website was developed entirely with the RBlogdown framework, in order to improve the website and facilitate its editing by future board directors.</description>
+    </item>
+    
     <item>
       <title>67th RBras and 20th SEAGRO will be held at Londrina/PR, Brazil</title>
-      <link>http://leg.ufpr.br/~ara/rbras_test/en/blog/rbras67/</link>
+      <link>https://www.rbras.org.br/en/blog/rbras67/</link>
       <pubDate>Wed, 01 Feb 2023 13:45:06 +0600</pubDate>
       
-      <guid>http://leg.ufpr.br/~ara/rbras_test/en/blog/rbras67/</guid>
+      <guid>https://www.rbras.org.br/en/blog/rbras67/</guid>
       <description>The 67th RBras and 20th SEAGRO will be held at the Events and Conventions Center of Aurora Shopping in the city of Londrina/PR, Brazil. The event will take place between July 24 and 28, 2023.</description>
+    </item>
+    
+    <item>
+      <title>Call  for funding to events participation by students members from RBras </title>
+      <link>https://www.rbras.org.br/en/blog/chamada-financiamento/</link>
+      <pubDate>Wed, 01 Feb 2023 13:45:06 +0600</pubDate>
+      
+      <guid>https://www.rbras.org.br/en/blog/chamada-financiamento/</guid>
+      <description>Only in portuguese.
+A Região Brasileira da Sociedade Internacional de Biometria – RBras informa que estará acolhendo propostas visando atender a participação de alunos para concorrer ao Fundo de financiamento para participação de estudantes associados aos eventos da RBras.</description>
+    </item>
+    
+    <item>
+      <title>NEW WEB SYSTEM FOR MEMBERS!</title>
+      <link>https://www.rbras.org.br/en/blog/novosistema/</link>
+      <pubDate>Tue, 24 Jan 2023 13:36:06 +0600</pubDate>
+      
+      <guid>https://www.rbras.org.br/en/blog/novosistema/</guid>
+      <description>RBRAS makes available a new web system to members! The system is developed by Softaliza Company (https://associado.rbras.softaliza.com.br/) and through it it is possible to check your membership status and to realize payments, among other features.</description>
     </item>
     
   </channel>
