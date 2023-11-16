@@ -1,7 +1,7 @@
 ---
 author:
 date: "2023-01-24T13:36:06+06:00"
-feature_image: ''
+feature_image: 'images/blog/sistema.png'
 image: images/blog/rbras-logo-teste.png
 title: 'NOVO SISTEMA WEB PARA OS ASSOCIADOS!'
 ---

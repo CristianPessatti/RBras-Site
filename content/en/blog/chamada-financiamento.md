@@ -3,8 +3,11 @@ author: ''
 date: "2023-02-01T13:45:06+06:00"
 feature_image: 'images/blog/financiamento.jpg'
 image: images/blog/financiamento.jpg
-title: 'Chamada do financiamento para participação de estudantes associados aos eventos da RBras'
+title: 'Call  for funding to events participation by students members from RBras '
 ---
+
+*Only in portuguese.*
+
 A Região Brasileira da Sociedade Internacional de Biometria – RBras informa que estará acolhendo
 propostas visando atender a participação de alunos para concorrer ao Fundo de financiamento para
 participação de estudantes associados aos eventos da RBras. Esta Chamada Interna destina-se

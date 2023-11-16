@@ -5,8 +5,17 @@
         <li class="nav-item"> 
         <a class="nav-link btn btn-sm btn-primary btn-sm-rounded" href="{{ .Permalink }}">  
                <span class="btn-area">
-                <span data-text="{{ .Lang }}">
-                  {{ .Lang }}
+                {{ if eq .Lang "en"}}
+                <span data-text="English">
+                English
+                {{end}}
+                {{ if eq .Lang "pt"}}
+                <span data-text="Português">
+                Português
+                {{end}}
+
+                 
+                    
                 </span>
               </span>
         </a>

@@ -258,8 +258,9 @@ googleAnalytics = ""  # add your tracking id
     primary_button2     = "Contat"
     primary_button_url  = "contact"
     primary_button_url2  = "en/contact"
-    secondary_button    = "Saiba Mais"
-    secondary_button2    = "Informations"
+    secondary_button     = "Saiba Mais"
+    secondary_button_url = "associado"
+    secondary_button2    = "More Information"
     secondary_button_url2 = "en/associado"
 
   [params.footer]
