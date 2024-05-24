@@ -27,22 +27,28 @@ categorias_list:
 - 'Student Member: Estudante com os mesmos benefícios de Regular Member (apresentar documento de matrícula);'
 - 'SUPP: Supporting Member, associado de outra região que queira apoiar a RBras.'
 
-introducao_tabela: 'Em assembleia geral da RBras, realizada em 17 de novembro de 2022 realizada no Majestic Palace Hotel, localizado na cidade de Florianópolis – SC, foram aprovados os valores (em reais) e prazos para pagamento das anuidades referentes ao ano de 2023 como segue:'
+introducao_tabela: 'Em assembleia geral da RBras, realizada em 27 de julho de 2023 realizada no Centro de Eventos e Convenções do Aurora Shopping da cidade de Londrina, Paraná, foram aprovados os valores (em reais) e prazos para pagamento das anuidades referentes ao ano de 2023 como segue:'
 
 tab_categoria_heading: CATEGORIA
-tab_valor_heading: ATÉ 20/11/2023
+tab_valor_heading: ATÉ 15/12/2023
+tab_valor_heading2: DEPOIS DE 15/12/2023
 
 tabela:
   - categoria: Full Member
     valor: 220,00
+    valor2: 220,00
   - categoria: Regular Member
-    valor: 160,00
+    valor: 130,00
+    valor2: 160,00
   - categoria: Senior Member
     valor: 40,00
+    valor2: 40,00
   - categoria: Student Member
-    valor: 30,00
+    valor: 25,00
+    valor2: 30,00
   - categoria: SUPP
     valor: 50,00
+    valor2: 50,00
 
 tut_filiacao_heading: 'Para se filiar à RBras ou atualizar seu cadastro siga os seguintes passos:'
 
@@ -57,12 +63,5 @@ duvidas:
 - 'Dúvidas sobre o sistema: secretaria@rbras.org.br ou contato@softaliza.com.br'
 - 'Dúvidas sobre procedimentos financeiros: tesouraria@rbras.org.br'
 
-premiacoes_heading: Prêmio Destaque RBras
-premiacoes:
-- 2022. Julio Singer (USP)
-- 2021. Não houve devido às restrições da pandemia
-- 2020. Não houve devido às restrições da pandemia
-- 2019. Joel Augusto Muniz (UFLA)
-- 2018. Décio Barbin (ESALQ/USP)
 
 ---

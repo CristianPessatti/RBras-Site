@@ -68,15 +68,15 @@ conselho_members:
     instagram   : ./diretoria
 
   - image       : images/team/team-member-three.jpg
-    name        : Roseli Aparecida Leandro
-    designation : 2020-2023
+    name        : Mariana Ragassi Urbano 
+    designation : 2023-2026
     medium      : ./diretoria
     linkedin    : ./diretoria
     instagram   : ./diretoria
 
   - image       : images/team/team-member-four.jpg
-    name        : Luiz Nakamura
-    designation : 2020-2023
+    name        : Eric Batista Ferreira
+    designation : 2023-2026
     medium      : ./diretoria
     linkedin    : ./diretoria
     instagram   : ./diretoria

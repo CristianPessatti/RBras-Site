@@ -8,7 +8,9 @@ expertise_sectors:
 - To disseminate the methods developed in the field of Statistics;
 - To offer courses on new topics in Applied Statistics.
 
-internacional_sectors: RBras belongs to the International Biometric Society (IBS, https://www.biometricsociety.org), made up of several other regions and countries and involving researchers in the field of Biometrics from all over the world.
+internacional_sectors: RBras belongs to the International Biometric Society (IBS), made up of several other regions and countries and involving researchers in the field of Biometrics from all over the world.
+
+internacional_url: 'https://www.biometricsociety.org'
 
 reunioes_sectors: The RBras conferences take place annually and, every two years, are held together with the Symposium on Statistics Applied to Agronomic Experimentation (SEAGRO), and represent the main Brazilian congress on Applied Statistics and Biometrics. With each holding of the RBras Annual Meeting, there is a growing involvement of the participants, which can be verified by publications and testimonies. An evolution in the quality of the presented works is also clearly seen, as a result of the maturing of professionals working in the fields of Statistics, Applied Statistics, Experimentation and Biometrics in Brazil, showing its multidisciplinarity and its consolidation over the years.
 

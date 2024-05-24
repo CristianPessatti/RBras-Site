@@ -1,0 +1,26 @@
+  {{ define "main" }}
+
+<section class="site-blog-header">
+  <div class="container">
+    <div class="row justify-content-left">
+        <div class="associado-header">
+          <br><br>
+          <h2>{{ .Params.premiacoes_heading }}</h2>
+          <ul>
+            {{ range .Params.premiacoes }}
+            <li>{{ . }}</li>
+            {{ end }}
+          <ul>
+        </div>
+    </div>
+  </div>
+</section>
+<br>
+<br>
+
+
+
+
+{{ partial "call-to-action.html" . }}
+
+{{ end }}

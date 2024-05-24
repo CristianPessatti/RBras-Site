@@ -95,6 +95,11 @@ googleAnalytics = ""  # add your tracking id
     name    = "Passados"
     url     = "events_p"
     weight  = 2
+  [[languages.pt.menu.nav]]
+    parent = "events"
+    name    = "Prêmio Destaque RBras"
+    url     = "events_des"
+    weight  = 3
   [[languages.en.menu.nav]]
     identifier = "events"
     name    = "Events"
@@ -110,6 +115,11 @@ googleAnalytics = ""  # add your tracking id
     name    = "Past"
     url     = "en/events_p"
     weight  = 2
+  [[languages.en.menu.nav]]
+    parent = "events"
+    name    = "RBras Awards"
+    url     = "events_des"
+    weight  = 3
   [[languages.pt.menu.nav]]
     identifier = "blog"
     name    = "Notícias"

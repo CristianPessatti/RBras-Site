@@ -27,22 +27,28 @@ categorias_list:
 - 'Student Member: Student with the same benefits as Regular Member (needs to present proof of enrolment in an academic degree);'
 - 'SUPP: Supporting Member, member from another region that wants to support RBras.'
 
-introducao_tabela: 'The values (in Reais) and payment deadlines for the 2022 Annuity are:'
+introducao_tabela: 'At a general RBras meeting, on July 27, 2023, held at the Aurora Shopping Events and Convention Center in the city of Londrina, Paraná, Brazil. The values (in Reais) and payment deadlines for the 2023 annuity are:'
 
 tab_categoria_heading: CATEGORY
-tab_valor_heading: UNTIL 20/11/2023
+tab_valor_heading: UNTIL 15/12/2023
+tab_valor_heading2: BEFORE 15/12/2023
 
 tabela:
   - categoria: Full Member
     valor: 220,00
+    valor2: 220,00
   - categoria: Regular Member
-    valor: 160,00
+    valor: 130,00
+    valor2: 160,00
   - categoria: Senior Member
     valor: 40,00
+    valor2: 40,00
   - categoria: Student Member
-    valor: 30,00
+    valor: 25,00
+    valor2: 30,00
   - categoria: SUPP
     valor: 50,00
+    valor2: 50,00
 
 tut_filiacao_heading: 'To join RBras, please follow these steps:'
 
@@ -64,12 +70,6 @@ duvidas:
 - 'Dúvidas sobre o sistema: secretaria@rbras.org.br ou contato@softaliza.com.br'
 - 'Dúvidas sobre procedimentos financeiros: tesouraria@rbras.org.br'
 
-premiacoes_heading: RBras Highlight Award
-premiacoes:
-- 2022. Julio Singer (USP)
-- 2021. None due the pandemic restrictions
-- 2020. None due the pandemic restrictions
-- 2019. Joel Augusto Muniz (UFLA)
-- 2018. Décio Barbin (ESALQ/USP)
+
 
 ---

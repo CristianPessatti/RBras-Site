@@ -8,7 +8,9 @@ expertise_sectors:
 - Divulgar os métodos desenvolvidos na área de estatística;
 - Oferecer cursos sobre novos temas de Estatística Aplicada.
 
-internacional_sectors: A RBras, pertence à International Biometric Society (IBS, https://www.biometricsociety.org), constituída de diversas outras regiões e países e envolvendo pesquisadores da área de Biometria de todo o mundo.
+internacional_sectors: A RBras, pertence à International Biometric Society (IBS), constituída de diversas outras regiões e países e envolvendo pesquisadores da área de Biometria de todo o mundo.
+
+internacional_url: 'https://www.biometricsociety.org'
 
 reunioes_sectors: As reuniões da RBras ocorrem anualmente e, a cada dois anos, é realizada conjuntamente com o Simpósio de Estatística Aplicada à Experimentação Agronômica (SEAGRO), e representam o principal congresso brasileiro de Estatística Aplicada e Biometria. A cada realização da Reunião Anual da RBras, constata-se um envolvimento crescente dos participantes, o que pode ser verificado pela publicações e pelos depoimentos. Também se percebe claramente uma evolução na qualidade dos trabalhos apresentados, fruto do amadurecimento dos profissionais que atuam nas áreas de Estatística, Estatística Aplicada, Experimentação e Biometria no Brasil, mostrando a sua multidisciplinaridade e sua consolidação ao longo dos anos.
 

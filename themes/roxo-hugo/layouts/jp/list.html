@@ -5,6 +5,12 @@
     <div class="row justify-content-left">
         <img class="jp-imagem" src="{{ .Params.img_logo | absURL }}" alt = "JP-RBras">
         <div class="associado-header">
+          {{ if eq .Site.Language.Lang "pt" }}
+          <center><p> Acesse o site da JP-Rbras <a href="https://jp83495.wixsite.com/jp-rbras?fbclid=PAAaZmx59yMtJ5Csed3J6kKfQqfpJm5JjkmzVpPgxP-E44H0jRNNUnoGjaDcg_aem_AZGuj1HIzqx6iTuFHE9s-FFv8fDr2PlK6VzD0pqlrC0dDBKaV2xcqEOYSYkXdpqsxWk" target="_blank">clicando aqui</a></p></center><br>
+          {{end}}
+          {{ if eq .Site.Language.Lang "en" }}
+          <center><p> To open JP-Rbras Website <a href="https://jp83495.wixsite.com/jp-rbras?fbclid=PAAaZmx59yMtJ5Csed3J6kKfQqfpJm5JjkmzVpPgxP-E44H0jRNNUnoGjaDcg_aem_AZGuj1HIzqx6iTuFHE9s-FFv8fDr2PlK6VzD0pqlrC0dDBKaV2xcqEOYSYkXdpqsxWk" target="_blank">click here</a></p></center><br>
+          {{end}}
           <p>{{ .Params.parag_inicial }}</p><br>
           <p>{{ .Params.parag_segundo }}</p><br>
           <p>{{ .Params.grupo_heading }}</p>

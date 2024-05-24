@@ -24,11 +24,13 @@
             <tr>
               <th>{{ .Params.tab_categoria_heading }}</th>
               <th>{{ .Params.tab_valor_heading }}</th>
+              <th>{{ .Params.tab_valor_heading2 }}</th>
             </tr>
             {{ range .Params.tabela }}
             <tr>
               <td>{{ .categoria }}</td>
               <td class="centralizar">{{ .valor }}</td>
+              <td class="centralizar">{{ .valor2 }}</td>
             </tr>
             {{ end }}
           </table>
